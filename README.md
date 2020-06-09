@@ -4,7 +4,7 @@
 
 ___
 
-## Course Structure
+## Learing Path Structure
 
 WEEK | Topics Covered 
 ------- | --- 
