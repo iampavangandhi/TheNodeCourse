@@ -7,7 +7,7 @@ ___
 
 WEEK | Topics Covered 
 ------- | --- 
-1     | Javascript (advance) 
+1     | [Javascript (advance)](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Week%2001%20Javascript%20Advance/README.md) 
 2     | Basic of Nodejs & Web Dev
 2     | Getting started with Nodejs
 3     | Expressjs
