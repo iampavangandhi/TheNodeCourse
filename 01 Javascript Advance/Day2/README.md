@@ -99,6 +99,9 @@ document.write(student.name);
 
 student.display();
 }
+```
+In the above code instead of using student.id and student.name, it can be written as this.id and this.name as this refers to object
+```javascript
 var student = {
 id: 1,
 name:"BOB",
@@ -110,8 +113,8 @@ document.write(this.name);
 
 student.display();
 }
-
 ```
+
 
 
 ### Arguments
