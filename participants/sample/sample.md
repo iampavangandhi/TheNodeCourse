@@ -1,14 +1,14 @@
 ## Details
 
-Username: iampavangandhi
+### Username: iampavangandhi
 
-Name: Pavan Gandhi
+### Name: Pavan Gandhi
 
-Portfolio: [Link](https://iampavangandhi.github.io)
+### Portfolio: [Link](https://iampavangandhi.github.io)
 
-Github-link: [Link](https://github.com/iampavangandhi)
+### Github-link: [Link](https://github.com/iampavangandhi)
 
-Skills: "HTML/CSS | Javascript | Python | React | Node | MongoDB | Django"
+### Skills: "HTML/CSS | Javascript | Python | React | Node | MongoDB | Django"
 
 ### Hi! I am Pavan Gandhi an undergrad CS student of DU let me walk you through my intro, projects and blogs.
 
