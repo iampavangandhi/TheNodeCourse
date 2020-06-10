@@ -14,10 +14,10 @@
 
 ### Concepts
 
-| S.No | Concepts                      |
-| ---- | ----------------------------- |
-| 1    | Strict Mode                   |
-| 2    | Code Hoisting                 |
-| 3    | Asynchronous Programming      |
-| 4    | Javascript Cohesion           |
-| 4    | ECMAScript 6, 2016, 2017, etc |
+| S.No | Concepts                                                                                                                                                                                                                   |
+| ---- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Strict Mode: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Strict%20Mode), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Strict%20Mode/)] |
+| 2    | Code Hoisting                                                                                                                                                                                                              |
+| 3    | Asynchronous Programming                                                                                                                                                                                                   |
+| 4    | Javascript Cohesion                                                                                                                                                                                                        |
+| 4    | ECMAScript 6, 2016, 2017, etc                                                                                                                                                                                              |
