@@ -1,6 +1,6 @@
 # Day2
 
-## Functions and this keyword
+## Functions, scope and this keyword
 
 ### Youtube Resource for Beginners: [link](https://www.youtube.com/watch?v=AY6X5jZZ_JE)
 
@@ -83,39 +83,6 @@ student.display();
 
 ```
 
-### this keyword
-
-"this" keyword refers to an object, that object which is executing the current bit of javascript code.
-
-```javascript
-var student = {
-id: 1,
-name:"BOB",
-display: function (){
-document.write(student.id + "<br/>");
-document.write(student.name);
-}
-};
-
-student.display();
-}
-```
-In the above code instead of using student.id and student.name, it can be written as this.id and this.name as this refers to object
-```javascript
-var student = {
-id: 1,
-name:"BOB",
-display: function (){
-document.write(this.id + "<br/>");
-document.write(this.name);
-}
-};
-
-student.display();
-}
-```
-
-
 
 ### Arguments
 
@@ -134,7 +101,88 @@ document.write(product(3,4,5));
 ```
 All these arguments can be accessed by using arguments.
 
+### this keyword
 
+"this" keyword refers to an object, that object which is executing the current bit of javascript code.
+
+```javascript
+var student = {
+id: 1,
+name:"BOB",
+display: function (){
+document.write(student.id + "<br/>");
+document.write(student.name);
+}
+};
+
+student.display();
+}
+```
+In the above code instead of using student.id and student.name, it can be written as this.id and this.name as this keyword refers to object
+```javascript
+var student = {
+id: 1,
+name:"BOB",
+display: function (){
+document.write(this.id + "<br/>");
+document.write(this.name);
+}
+};
+
+student.display();
+}
+```
+### Scope
+
+Basically in JavaSCript there are two scopes: Local Scope & Global Scope.
+In JS, each function creates a new scope.
+
+## What scope does?
+Scope determines the accessibility of these variables.
+
+Variables defined inside a function are not accessible (visible) from outside the function.
+
+## Local Variables
+Variables declared within a JavaScript function, cannot be used outside the function.
+```javascript
+// code here can NOT use myName
+
+function nameFunction() {
+  var myName = "Rutuja";
+
+  //code here can use myName
+
+}
+}
+```
+Note: Variables used declared inside functions are local to particular functions only, varibles with same name can be used outside functions.
+
+## Global Variables
+Variables defined outside functions are global variables.
+All scripts and functions on a web page can access global variables. 
+```javascript
+var myName = "Rutuja";
+
+//code here can use myName
+
+function nameFunction() {
+
+  //code here can use myName
+
+}
+```
+
+Assigning a value to a variable which is not declared, it will automatically become a global variable.
+nameFunction();
+
+```javascript
+// code here can use myName
+
+function nameFunction() {
+  myName = "Rutuja";
+}
+```
+In a web browser, global variables are deleted when you close the browser window.
 
 for more info about this topic view [link1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
 and [link2](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/set)
