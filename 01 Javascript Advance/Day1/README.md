@@ -1,6 +1,6 @@
 # Day1
 
-# Datatypes and Objects (with let,var and const)
+## Datatypes and Objects (with let,var and const)
 
 ### Youtube Resource for Beginners: [link](https://youtu.be/hdI2bqOjy3c)
 
