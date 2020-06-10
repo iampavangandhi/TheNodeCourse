@@ -132,7 +132,7 @@ document.write(this.name);
 student.display();
 }
 ```
-### Scope
+# Scope
 
 Basically in JavaSCript there are two scopes: Local Scope & Global Scope.
 In JS, each function creates a new scope.
