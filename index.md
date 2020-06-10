@@ -18,6 +18,8 @@
 | 5          | CRUD Application (with Heroku Deployment)                                                                                                                                                               |
 | 6 till end | **TradeByte** (main project)                                                                                                                                                                            |
 
+### Complete learning path and plan [here](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)
+
 ### Refrences from [W3School](https://www.w3schools.com/js/) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ### Kindly Star the repo and Follow us.
