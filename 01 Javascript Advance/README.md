@@ -20,4 +20,4 @@
 | 2    | Code Hoisting                                                                                                                                                                                                              |
 | 3    | Asynchronous Programming                                                                                                                                                                                                   |
 | 4    | Javascript Cohesion                                                                                                                                                                                                        |
-| 4    | ECMAScript 6, 2016, 2017, etc                                                                                                                                                                                              |
+| 5    | ECMAScript 6, 2016, 2017, etc                                                                                                                                                                                              |
