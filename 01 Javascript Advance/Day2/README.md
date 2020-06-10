@@ -182,6 +182,7 @@ function nameFunction() {
   myName = "Rutuja";
 }
 ```
+In JS, lifetime of variable starts when it is declared and local variables are deleted when the function is completed.
 In a web browser, global variables are deleted when you close the browser window.
 
 for more info about this topic view [link1](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/get)
