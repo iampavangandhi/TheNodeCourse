@@ -34,7 +34,7 @@ The typeof operator can return one of these primitive types:
     boolean
     undefined
 
-## Complex Data Type
+### Complex Data Type
 
 ```javascript
 typeof { name: "Pavan", age: 20 }; // Returns "object"
@@ -50,7 +50,7 @@ The typeof operator can return one of two complex types:
     object
     function
 
-## Difference Between Undefined and Null
+### Difference Between Undefined and Null
 
 **undefined** and **null** are equal in value but different in type:
 
