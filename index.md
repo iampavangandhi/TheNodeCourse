@@ -1,7 +1,5 @@
 # TheNodeCourse
 
-### Webpage [Link](https://iampavangandhi.github.io/TheNodeCourse/) build using [Github Pages](https://pages.github.com/)
-
 ### TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week course including a simple CRUD app after which we will move to the main project **Tradebyte**.
 
 ---
@@ -23,8 +21,8 @@
 - [HTML5](https://youtu.be/UB1O30fR-EE)
 - [CSS3](https://youtu.be/yfoY53QXEnI)
 - [Javascript](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)
-- Basics of command line [windows](https://youtu.be/QISdBQDEiJ8), [linux and mac](https://youtu.be/BGjTboXjH28)
-- Knowledge of Git and Github [english](https://youtu.be/SWYqp7iY_Tc) & [hindi](https://youtu.be/iR5WIknxdkY)
+- Basics of command line [[windows](https://youtu.be/QISdBQDEiJ8), [linux and mac](https://youtu.be/BGjTboXjH28)]
+- Knowledge of Git and Github [[english](https://youtu.be/SWYqp7iY_Tc) and [hindi](https://youtu.be/iR5WIknxdkY)]
 
 ---
 
@@ -46,4 +44,4 @@
 
 ### Complete learning path and plan [here](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)
 
-### Kindly **Star** the repo and Follow us.
+### Kindly **Star** the repo and **Follow** us.
