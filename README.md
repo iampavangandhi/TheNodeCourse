@@ -2,11 +2,33 @@
 
 ### :zap: Webpage [Link](https://iampavangandhi.github.io/TheNodeCourse/) build using [Github Pages](https://pages.github.com/)
 
-### :zap: TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home).
+### :zap: TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week course including a simple CRUD app after which we will move to the main project **Tradebyte**.
 
 ---
 
-## Learing Path Structure
+### Topics Covered
+
+- Javascript Advance
+- Nodejs and NPM
+- Expressjs
+- Passport Authentication
+- MongoDB
+- Postman Testing
+- Testing and Heroku Deployment
+
+---
+
+### Prerequisites for learning through this course with resources to learn them.
+
+- [HTML5](https://youtu.be/UB1O30fR-EE)
+- [CSS3](https://youtu.be/yfoY53QXEnI)
+- [Javascript](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)
+- Basics of command line [windows](https://youtu.be/QISdBQDEiJ8), [linux and mac](https://youtu.be/BGjTboXjH28)
+- Knowledge of Git and Github [english](https://youtu.be/SWYqp7iY_Tc) & [hindi](https://youtu.be/iR5WIknxdkY)
+
+---
+
+## Learing Track
 
 | WEEK       | Topics Covered                                                                                                                                                                                          |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,8 +42,8 @@
 | 5          | CRUD Application (with Heroku Deployment)                                                                                                                                                               |
 | 6 till end | **TradeByte** (main project)                                                                                                                                                                            |
 
+### Some good learing resources and helpful links here
+
 ### Complete learning path and plan [here](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)
 
-### :zap: Refrences from [W3School](https://www.w3schools.com/js/) and [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### :zap: Kindly :star2: the repo and follow us :smiley:.
+### Kindly :star2: the repo and follow us :smiley:.

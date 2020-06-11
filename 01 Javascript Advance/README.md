@@ -2,15 +2,15 @@
 
 ### Topics
 
-| Days   | Topics                                                                                                                                                                                                                                      |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | Datatypes and Objects (with let,var and const): [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Day1), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Day1/)] |
-| 2      | Functions, Scope and this Keyword: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Day2), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Day2/)]              |
-| 3      | OOPS, Funtional Programming & Prototype                                                                                                                                                                                                     |
-| SUNDAY | Google Meet Session                                                                                                                                                                                                                         |
-| 5      | Closure & Callback                                                                                                                                                                                                                          |
-| 6      | Promise & Arrow Functions                                                                                                                                                                                                                   |
-| 7      | Async/Await                                                                                                                                                                                                                                 |
+| Days       | Topics                                                                                                                                                                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Datatypes and Objects (with let,var and const): [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Day1), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Day1/)] |
+| 2          | Functions, Scope and this Keyword: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Day2), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Day2/)]              |
+| 3          | OOPS, Funtional Programming & Prototype                                                                                                                                                                                                     |
+| 4 (SUNDAY) | Google Meet Session: (Quiz coming on Sunday)                                                                                                                                                                                                |
+| 5          | Closure & Callback                                                                                                                                                                                                                          |
+| 6          | Promise & Arrow Functions                                                                                                                                                                                                                   |
+| 7          | Async/Await                                                                                                                                                                                                                                 |
 
 ### Concepts
 
