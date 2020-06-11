@@ -4,7 +4,7 @@
 
 ### Youtube Resource for Beginners: [link](https://youtu.be/hdI2bqOjy3c)
 
-### Resouce: [Datatypes and Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) & [let, var and const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+### Resouce: [Datatypes and Objects](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) and [let, var and const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
 
 ## Datatypes
 
