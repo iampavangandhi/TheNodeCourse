@@ -13,7 +13,7 @@
 ## Introduction
 
 Hi! I am Fab, let me walk you through my intro, portfolio, projects and blogs.
-I started directing myself to learn web development in 2019 with the help of online resources which is still going good. I am determined to become a good developer one day and hence thriving to improve each day.
+I started directing myself to learn web development in 2019 with the help of online resources which is still going good. I am determined to become a good developer one day and hence thriving to become a better version of myself.
 
 An optimistic person who believes anything can happen if you believe and work hard for it, I am always excited to learn and create new things and improve every day.
 
@@ -28,7 +28,7 @@ I like to read books (mostly rom-coms and cliches 🙈). I also love to interact
 ## Blogs
 
 - I recently launched my first blog on [How to get started with web development (Front-End)?🤔 [Part - 1]](https://dev.to/fabcodingzest/how-to-get-started-with-web-development-front-end-part-1-5c6h) - which recieved so much love from the Dev Community 🤓💖.
-- [Fab Blogs](https://dev.to/fabcodingzest/how-to-get-started-with-web-development-front-end-part-1-5c6h)- here I'm recording my Round 2 of #100DaysOfCode journey as blogs sharing my day-to-day struggles and achievements plus silly moments.
+- [Fab Blogs](https://fabcodingzest-blogs.netlify.app/)- here I'm recording my Round 2 of #100DaysOfCode journey as blogs sharing my day-to-day struggles and achievements plus silly moments.
 
 ## Social links
 
