@@ -42,7 +42,7 @@
 | 5          | CRUD Application (with Heroku Deployment)                                                                                                                                                               |
 | 6 till end | **TradeByte** (main project)                                                                                                                                                                            |
 
-### Some good learing resources and helpful links here
+### Some good learing resources and helpful links [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources), [web](https://iampavangandhi.github.io/TheNodeCourse/resources/)]
 
 ### Complete learning path and plan [here](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)
 
