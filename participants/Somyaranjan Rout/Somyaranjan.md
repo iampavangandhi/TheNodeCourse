@@ -14,8 +14,6 @@ ___
 
 <h2>My Skills:</h2>
 
-___
-
 - Node 
 - React 
 - Django 
@@ -27,8 +25,6 @@ ___
 ___
 
 <h2> Introduction </h2>
-
-___
 
 Hello World 🙋‍♂️! This is Somyaranjan Rout pursuing Computer Science and Engineering 🎓 from <a href="http://www.paruluniversity.ac.in">Parul University 🏛</a>. 
 <br>
