@@ -2,6 +2,8 @@
 
 ### ⚡ Webpage [Link](https://iampavangandhi.github.io/TheNodeCourse/) build using [Github Pages](https://pages.github.com/)
 
+![logo](logo.png)
+
 ### ⚡ TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week course including a simple CRUD app after which we will move to the main project **Tradebyte**.
 
 ---
