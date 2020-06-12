@@ -2,9 +2,9 @@
 
 ## Functions, scope and this keyword
 
-### Youtube Resource for Beginners: [link](https://www.youtube.com/watch?v=AY6X5jZZ_JE)
+### Youtube resources: [link](https://www.youtube.com/watch?v=AY6X5jZZ_JE)
 
-### Resouce: [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions) & [this keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
+### Resouces: [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions) & [this keyword](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this)
 
 ## Functions
 
