@@ -44,4 +44,4 @@
 
 ### Complete learning path and plan [here](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)
 
-### Kindly 🌟 the repo and Follow us.
+### Kindly 🌟 the repo and follow us 🤓

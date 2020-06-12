@@ -1,8 +1,8 @@
 # TheNodeCourse
 
-### :zap: Webpage [Link](https://iampavangandhi.github.io/TheNodeCourse/) build using [Github Pages](https://pages.github.com/)
+### ⚡ Webpage [Link](https://iampavangandhi.github.io/TheNodeCourse/) build using [Github Pages](https://pages.github.com/)
 
-### :zap: TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week course including a simple CRUD app after which we will move to the main project **Tradebyte**.
+### ⚡ TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week course including a simple CRUD app after which we will move to the main project **Tradebyte**.
 
 ---
 
@@ -46,4 +46,4 @@
 
 ### Complete learning path and plan [here](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)
 
-### Kindly :star2: the repo and follow us :smiley:.
+### Kindly 🌟 the repo and follow us 🤓
