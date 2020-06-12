@@ -8,4 +8,4 @@ Hello , I am Shweta Shukla, a prefinal year Btech CSE student at ABES Institute 
 ## Social Link:
 - [LinkedIn](https://www.linkedin.com/in/shweta-shukla-1b1659170/)
 <!-- - [Instagram](https://www.instagram.com/akankshab786/) -->
-## I am Here to learn and give my :100: to my work .
+## I am here to learn and give my :100: to my work .
