@@ -10,14 +10,12 @@
 
 ## Introduction
 
-Hi! I am Nivedita Kumari a 3rd Year  student of MIT Muzaffarpur
+Hi! I am Nivedita Kumari a 3rd Year student of MIT Muzaffarpur
 I am currently learning full-stack web development I am interested in learning about new technologies.
-
 
 ## Social links (optional)
 
-- [LinkedIn](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
+- [Linkedin](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
 - [Instagram](https://instagram.com/niveditaprity)
 
-### :heavy_check_mark: I agree to give my best and work with full dedication :100:
-
+### ✅ I agree to give my best and work with full dedication 💯

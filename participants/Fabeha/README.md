@@ -36,4 +36,4 @@ I like to read books (mostly rom-coms and cliches 🙈). I also love to interact
 - [LinkedIn](https://linkedin.com/in/fabcodingzest)
 - [Instagram](https://instagram.com/fabcodingzest) - (I am mostly active here)
 
-### I am here to learn and grow as a developer with some awesome people :100
+### I am here to learn and grow as a developer with some awesome people 💯

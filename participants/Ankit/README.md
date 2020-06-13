@@ -10,7 +10,7 @@
 
 ### Skills: "HTML/CSS | Javascript | Rest Api | Java | Bootstrap | Netlify | Linux | Spring Framework"
 
-__
+\_\_
 
 ## Introduction
 
@@ -24,8 +24,9 @@ and Fortnite is my Second place where i spend later time.
 ## Social Links ()
 
 Fortnite - Venomxd32
+
 1. [Linkedin](https://www.linkedin.com/in/ankit-p-632a72109/)
 2. [Github](https://github.com/howdyAnkit)
 3. [Twitter](https://twitter.com/howdy_ankit)
 
-### :here to Learn and grow with the community and also to explore.
+### here to Learn and grow with the community and also to explore.

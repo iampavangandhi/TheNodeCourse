@@ -27,4 +27,4 @@ I like to watch animes more than web series.
 - [LinkedIn](https://linkedin.com/in/iampavangandhi)
 - [Instagram](https://instagram.com/iampavangandhi)
 
-### :heavy_check_mark: I agree to give my best and work with full dedication :100:
+### ✅ I agree to give my best and work with full dedication 💯

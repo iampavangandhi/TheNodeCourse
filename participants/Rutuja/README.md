@@ -8,7 +8,7 @@
 
 ### Skills: "HTML/CSS | Javascript | Python | React | Node | MySQL"
 
-___
+---
 
 ## Introduction
 
@@ -19,4 +19,4 @@ I am currently learning full-stack development and cloud computing, also I am wo
 
 I like to watch TV series.
 
-### :heavy_check_mark: I agree to give my best and work with full dedication :100:
+### ✅ I agree to give my best and work with full dedication 💯
