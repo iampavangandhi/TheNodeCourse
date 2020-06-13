@@ -46,10 +46,10 @@
 
 ### Resources and Other Sections
 
-| Sections       | Links                                                                                                                                                   |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Resources      | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources), [web](https://iampavangandhi.github.io/TheNodeCourse/resources/)]       |
-| Tradebyte Plan | [link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)                                                                       |
-| Participants   | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants), [web](https://iampavangandhi.github.io/TheNodeCourse/participants/)] |
+| Sections          | Links                                                                                                                                                   |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Resources Page    | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources), [web](https://iampavangandhi.github.io/TheNodeCourse/resources/)]       |
+| Tradebyte Plan    | [[link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)]                                                                     |
+| Participants Page | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants), [web](https://iampavangandhi.github.io/TheNodeCourse/participants/)] |
 
 ### Kindly 🌟 the repo and follow us 🤓
