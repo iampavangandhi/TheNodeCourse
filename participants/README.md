@@ -20,7 +20,7 @@
 | 7     | Kumari Anjali    | [link](https://iampavangandhi.github.io/TheNodeCourse/participants/KumariAnjali/)    |
 | 8     | Nivedita         | [link](https://iampavangandhi.github.io/TheNodeCourse/participants/Nivedita/)        |
 | 9     | Nivedita Kumari  | [link](https://iampavangandhi.github.io/TheNodeCourse/participants/NiveditaPrity/)   |
-| 10    | Piyush Gupta     |                                                                                      |
+| 10    | Piyush Gupta     | [link](https://iampavangandhi.github.io/TheNodeCourse/participants/Piyush/)          |
 | 11    | Rutuja           | [link](https://iampavangandhi.github.io/TheNodeCourse/participants/Rutuja/)          |
 | 12    | Shweta Shukla    | [link](https://iampavangandhi.github.io/TheNodeCourse/participants/ShwetaShukla/)    |
 | 13    | Somyaranjan Rout | [link](https://iampavangandhi.github.io/TheNodeCourse/participants/SomyaranjanRout/) |

@@ -8,7 +8,7 @@
 
 ### Github-link: [Link](https://github.com/iampavangandhi)
 
-### Skills: "HTML/CSS | Javascript | Python | React | Node | MongoDB | Django"
+### Skills: HTML/CSS | Javascript | Python | React | Node | MongoDB | Django
 
 ---
 
