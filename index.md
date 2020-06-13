@@ -6,7 +6,7 @@
 
 ---
 
-### Topics Covered
+### ⚡ Topics Covered
 
 - Javascript Advance
 - Nodejs and NPM
@@ -18,7 +18,7 @@
 
 ---
 
-### Prerequisites for learning through this course with resources to learn them.
+### ⚡ Prerequisites for the course with resources to learn them.
 
 - [HTML5](https://youtu.be/UB1O30fR-EE)
 - [CSS3](https://youtu.be/yfoY53QXEnI)
@@ -28,7 +28,7 @@
 
 ---
 
-### Learning Track (with links)
+### ⚡ Learning Track (with links)
 
 | WEEK       | Topics Covered                                                                                                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -44,7 +44,7 @@
 
 ---
 
-### Resources and Other Sections
+### ⚡ Resources and Other Sections
 
 | Sections          | Links                                                                                                                                                   |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -52,4 +52,4 @@
 | Tradebyte Plan    | [[link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)]                                                                     |
 | Participants Page | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants), [web](https://iampavangandhi.github.io/TheNodeCourse/participants/)] |
 
-### Kindly 🌟 the repo and follow us 🤓
+### ⚡ Kindly 🌟 the repo and follow us 🤓
