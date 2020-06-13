@@ -1,8 +1,8 @@
 ## Details
--**Username: Anjalikumari148**
--**Name: Kumari Anjali**
--**Github Link: https://github.com/Anjalikumari148**
--**Skills: C | C++ | HTML | CSS | JS | VUE.js**
+- **Username: Anjalikumari148**
+- **Name: Kumari Anjali**
+- **Github Link: https://github.com/Anjalikumari148**
+- **Skills: C | C++ | HTML | CSS | JS | VUE.js**
 
 ## Introduction 
 Hi ! I am Kumari Anjali a 2nd year Student of Indira Gandhi Delhi Technical University for Women.
