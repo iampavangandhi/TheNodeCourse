@@ -28,7 +28,7 @@
 
 ---
 
-### Learing Track (with links)
+### Learning Track (with links)
 
 | WEEK       | Topics Covered                                                                                                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,8 +42,14 @@
 | 5          | CRUD Application (with Heroku Deployment)                                                                                                                                                             |
 | 6 till end | **TradeByte** (main project)                                                                                                                                                                          |
 
-### Some good learing resources and helpful links [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources), [web](https://iampavangandhi.github.io/TheNodeCourse/resources/)]
+---
 
-### Complete learning path and plan [here](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)
+### Resources and Other Sections
+
+| Sections       | Links                                                                                                                                                   |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Resources      | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources), [web](https://iampavangandhi.github.io/TheNodeCourse/resources/)]       |
+| Tradebyte Plan | [link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)                                                                       |
+| Participants   | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants), [web](https://iampavangandhi.github.io/TheNodeCourse/participants/)] |
 
 ### Kindly 🌟 the repo and follow us 🤓
