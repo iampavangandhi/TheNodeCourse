@@ -6,7 +6,7 @@
 
 ### Github-link: [Link](https://github.com/niveditaprity)
 
-### Skills: "HTML/CSS | Javascript | Python | C | C++ | Bootstrap | Django| Data Structure and algorithms"
+### Skills: HTML/CSS | Javascript | Python | C | C++ | Bootstrap | Django| Data Structure and Algorithms
 
 ## Introduction
 

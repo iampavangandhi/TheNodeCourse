@@ -6,7 +6,7 @@
 
 ### Github-link: [Link](https://github.com/chitrasingla)
 
-### Skills: "HTML/CSS | Javascript | C++"
+### Skills: HTML/CSS | Javascript | C++
 
 ---
 

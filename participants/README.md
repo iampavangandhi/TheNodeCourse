@@ -1,11 +1,13 @@
-# Mentors
+# TheNodeCourse
+
+## Mentors
 
 | S.No. | Name         | Profile                                                                          |
 | ----- | ------------ | -------------------------------------------------------------------------------- |
 | 1     | Pavan Gandhi | [link](https://iampavangandhi.github.io/TheNodeCourse/participants/PavanGandhi/) |
 | 2     | Rutuja Bhole | [link](https://iampavangandhi.github.io/TheNodeCourse/participants/RutujaBhole/) |
 
-# Participants Page
+## Participants Page
 
 | S.No. | Name             | Profile                                                                              |
 | ----- | ---------------- | ------------------------------------------------------------------------------------ |

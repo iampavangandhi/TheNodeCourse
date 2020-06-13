@@ -6,13 +6,12 @@
 
 ### Github-link: [Link](https://github.com/garimasingh22)
 
-### Skills: "HTML/CSS | Javascript(beginner) | C | C++"
+### Skills: HTML/CSS | Javascript(beginner) | C | C++
 
 ## Introduction
 
 Hi! I am Garima Singh Bhadauria an undergrad student of Harcourt Butler Technical University,Kanpur.
 I am currently learning full-stack web development and am currently focusing on nodejs.
-
 
 ## Social links (optional)
 

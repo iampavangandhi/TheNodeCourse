@@ -6,7 +6,7 @@
 
 ### Github-link: [Link](https://github.com/vectorrb)
 
-### Skills: "HTML/CSS | Javascript | React | Node | Anglar | MySQl"
+### Skills: HTML/CSS | Javascript | React | Node | Anglar | MySQl
 
 ---
 

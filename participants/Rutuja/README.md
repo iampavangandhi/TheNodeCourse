@@ -6,7 +6,7 @@
 
 ### Github-link: [Link](https://github.com/rutuja912)
 
-### Skills: "HTML/CSS | Javascript | Python | React | Node | MySQL"
+### Skills: HTML/CSS | Javascript | Python | React | Node | MySQL
 
 ---
 

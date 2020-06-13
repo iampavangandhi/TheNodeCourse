@@ -1,5 +1,7 @@
 ## Details
 
+<img src="https://avatars3.githubusercontent.com/u/42767012?s=460&v=4" width="200" height="200">
+
 ### Username: iampavangandhi
 
 ### Name: Pavan Gandhi
@@ -8,7 +10,7 @@
 
 ### Github-link: [Link](https://github.com/iampavangandhi)
 
-### Skills: "HTML/CSS | Javascript | Python | React | Node | MongoDB | Django"
+### Skills: HTML/CSS | Javascript | C++ | Python | React | Node | MongoDB | Linux | Docker
 
 ---
 

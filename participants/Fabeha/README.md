@@ -6,7 +6,7 @@
 
 ### Github-link: [Link](https://github.com/fabcodingzest)
 
-### Skills: "HTML | CSS | SCSS | Javascript | Webpack | React | Firebase | Tailwind"
+### Skills: HTML | CSS | SCSS | Javascript | Webpack | React | Firebase | Tailwind
 
 ---
 
