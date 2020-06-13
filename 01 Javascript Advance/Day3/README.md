@@ -176,3 +176,14 @@ Person.prototype.nationality = "English";
 ```
 
 View more examples [here](https://www.w3schools.com/js/js_object_prototypes.asp)
+
+## Excercise
+
+Note: You can solve them anywhere you want if you stuck see the solution.
+You don't have to submit the solution to me they are just for your practice.
+
+### Based on functions: [here](https://edabit.com/challenge/tmnCStcrkdWbreKP5)
+
+### Based on classes: [here](https://edabit.com/challenge/s5Sz2ovKsvtGxNGgn)
+
+### Shiritori Game(Hard): [here](https://edabit.com/challenge/6o5tYwwbY2ys7XTm4)
