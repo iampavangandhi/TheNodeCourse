@@ -6,7 +6,7 @@
 
 ### Resource: [Callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_functions) and [Closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#:~:text=A%20closure%20is%20the%20combination,scope%20from%20an%20inner%20function.)
 
-### Callback
+## Callback
 
 In JavaScript, you know, functions are objects. Because of this, functions can take functions as arguments, and can be returned by other functions. Functions that do this are called higher-order functions. Any function that is passed as an argument is called a **callback function**.
 
@@ -44,7 +44,7 @@ Callbacks are generally used when the function needs to perform events before th
 
 For more examples [link](https://www.dashingd3js.com/lessons/javascript-callback-functions)
 
-### Closure
+## Closure
 
 A closure is a function that has access to the parent scope(lifespan of a variable in javascript), even after the scope has closed.
 
