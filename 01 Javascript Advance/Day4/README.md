@@ -2,10 +2,11 @@
 
 ## Callback & Closure 
 
-### Youtube Resource: [Closure]()
+### Youtube Resource: [Closure](https://www.youtube.com/watch?v=71AtaJpJHw0)
+### Youtube Resource: [Callback](https://www.youtube.com/watch?v=pTbSfCT42_M)
 
 ### Resource: [Callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_functions)
-### Resource: [Closure](### Resouce: [Callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_functions)
+### Resource: [Closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#:~:text=A%20closure%20is%20the%20combination,scope%20from%20an%20inner%20function.)
 
 ### Must Read: [OOPS](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81) and [Functional Programming](https://medium.com/@bojangbusiness/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d)
 
