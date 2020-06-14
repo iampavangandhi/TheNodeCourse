@@ -1,14 +1,10 @@
-# Day4
+# Day5
 
-## Callback & Closure 
+## Callback & Closure
 
-### Youtube Resource: [Closure](https://www.youtube.com/watch?v=71AtaJpJHw0)
-### Youtube Resource: [Callback](https://www.youtube.com/watch?v=pTbSfCT42_M)
+### Youtube Resource: [Closure](https://www.youtube.com/watch?v=71AtaJpJHw0) and [Callback](https://www.youtube.com/watch?v=pTbSfCT42_M)
 
-### Resource: [Callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_functions)
-### Resource: [Closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#:~:text=A%20closure%20is%20the%20combination,scope%20from%20an%20inner%20function.)
-
-### Must Read: [OOPS](https://medium.com/better-programming/object-oriented-programming-in-javascript-b3bda28d3e81) and [Functional Programming](https://medium.com/@bojangbusiness/javascript-functional-programming-map-filter-and-reduce-846ff9ba492d)
+### Resource: [Callback](https://developer.mozilla.org/en-US/docs/Glossary/Callback_functions) and [Closure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures#:~:text=A%20closure%20is%20the%20combination,scope%20from%20an%20inner%20function.)
 
 ### Callback
 
@@ -18,26 +14,22 @@ To say it simply, a callback is a function that is to be executed after another 
 
 ### Why do we need Callbacks?
 
- is an event driven language. This means that instead of waiting for a response before moving on, JavaScript will keep executing while listening for other events. 
+is an event driven language. This means that instead of waiting for a response before moving on, JavaScript will keep executing while listening for other events.
 Example:
 
 ```javascript
-function first(){
+function first() {
   // Simulate a code delay
-  setTimeout( function(){
+  setTimeout(function () {
     console.log(1);
-  }, 500 );
+  }, 500);
 }
-function second(){
+function second() {
   console.log(2);
 }
-first();
-second();
-
+first(); //Output will be -  2
+second(); //Output will be -  1
 ```
-Output of above example will be -
-2
-1
 
 In the example above, **setTimeout()** just gives a delay of 500 millisecond.
 Here, even though we invoked the first() function first, we logged out the result of that function after the second() function.
@@ -51,7 +43,6 @@ It is not that JavaScript did not execute these functions in th order we wanted,
 Callbacks are generally used when the function needs to perform events before the callback is executed, or when the function does not (or cannot) have meaningful return values to act on, as is the case for Asynchronous JavaScript (based on timers) or XMLHttpRequest requests.
 
 For more examples [link](https://www.dashingd3js.com/lessons/javascript-callback-functions)
- 
 
 ### Closure
 
@@ -67,7 +58,7 @@ In JavaScript, closures are created every time a function is created, at functio
 function numberGenerator() {
   // Local “free” variable that ends up within the closure
   var num = 1;
-  function checkNumber() { 
+  function checkNumber() {
     console.log(num);
   }
   num++;
@@ -77,16 +68,14 @@ function numberGenerator() {
 var number = numberGenerator();
 number(); // 2
 ```
+
 In the example above, the function numberGenerator creates a local “free” variable num (a number) and checkNumber (a function which prints num to the console).
 
 The function checkNumber doesn’t have any local variables of its own — however, it does have access to the variables within the outer function, numberGenerator, because of a closure.
 
 Therefore, it can use the variable num declared in numberGenerator to successfully log it to the console even after numberGenerator has returned.
 
-
 To read more about them click [here](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
-
-
 
 ## Excercise
 
