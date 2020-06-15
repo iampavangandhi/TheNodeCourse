@@ -117,7 +117,7 @@ var hello = () => {
 };
 ```
 
-It gets shorter! If the function has only one statement, and the statement returns a value, you can remove the brackets and the return keyword:
+It gets shorter! If the function has only one statement, and the statement returns a value, you can remove the brackets and the return keyword.
 
 ```javascript
 //arrow functions return value by default
