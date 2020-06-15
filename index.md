@@ -52,4 +52,6 @@
 | Tradebyte Plan    | [[link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)]                                                                     |
 | Participants Page | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants), [web](https://iampavangandhi.github.io/TheNodeCourse/participants/)] |
 
+### ⚡ This repo is open for contribution see [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
+
 ### ⚡ Kindly 🌟 the repo and follow us 🤓
