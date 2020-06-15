@@ -128,3 +128,20 @@ var hello = (val) => "Hello " + val;
 ```
 
 more examples [here](https://www.w3schools.com/js/js_arrow_function.asp)
+
+## Excercise
+
+Note: You can solve them anywhere you want if you stuck see the solution.
+You don't have to submit the solution to me they are just for your practice.
+
+### Questions
+
+- Write a function testNum that takes a number as an argument and returns a Promise that tests if the value is less than or greater than the value 10.
+
+- Write a function that use Promises that you can chain! The function, makeAllCaps(), will take in an array of words and capitalize them. If the array contains anything other than strings it should throw an error.
+
+- Write a function that use Promises that you can chain! The function, sortWords(), will sort the words in alphabetical order. If the array contains anything other than strings it should throw an error.
+
+### Solution
+
+See solutions [here](https://repl.it/@AdamCahan/Promise-practice-exercises#main.js)
