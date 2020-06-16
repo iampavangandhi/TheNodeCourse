@@ -16,10 +16,10 @@
 
 ### Must read [article](https://medium.com/@madasamy/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7)
 
-| S.No | Concepts                                                                                                                                                                                                                       |
-| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1    | Strict Mode: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic1), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic1/)]                   |
-| 2    | Code Hoisting: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic2), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic2/)]                 |
-| 3    | Asynchronous Programming: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic3), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic3/)]      |
-| 4    | Javascript Module Pattern: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic4), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic4/)]     |
-| 5    | ECMAScript 6, 2016, 2017, etc: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic5), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic5/)] |
+| S.No | Concepts                                                                                                                                                                                                                                  |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Strict Mode: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic1), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic1/)]                              |
+| 2    | Code Hoisting: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic2), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic2/)]                            |
+| 3    | Asynchronous Programming: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic3), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic3/)]                 |
+| 4    | Javascript Module Pattern: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic4), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic4/)]                |
+| 5    | ECMAScript 6, 2016, 2017, etc (detailed): [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Topic5), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Topic5/)] |
