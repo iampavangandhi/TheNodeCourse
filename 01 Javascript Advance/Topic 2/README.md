@@ -45,7 +45,7 @@ Initializations are not hosted
 Best Practices
 Because of hoisting, it’s considered a best practice to always declare your variables at the top of their respective scopes. This way there are no undesirable effects. You should also always try to initialize variables when you declare them. This will provide cleaner code and help avoid undefined variables.
 
-for more see [here](https://scotch.io/tutorials/understanding-hoisting-in-javascript#:~:text=Hoisting%20is%20a%20JavaScript%20mechanism,scope%20is%20global%20or%20local.)
+for more info see [here](https://scotch.io/tutorials/understanding-hoisting-in-javascript#:~:text=Hoisting%20is%20a%20JavaScript%20mechanism,scope%20is%20global%20or%20local.)
 
 
 
