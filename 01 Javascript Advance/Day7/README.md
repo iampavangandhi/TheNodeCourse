@@ -4,7 +4,7 @@
 
 ### Youtube resources: [Async/Await](https://www.youtube.com/watch?v=PoRJizFvM7s)
 
-### Resouces: [Async/Await](https://exploringjs.com/impatient-js/ch_async-functions.html#:~:text=Inside%20the%20body%20of%20an,await%20returns%20the%20fulfillment%20value.)
+### Resouces: [[Async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)/[Await](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/await)]
 
 ## Async/Await
 
@@ -23,11 +23,11 @@ Writing async function is quite simple. You just need to add the **async** keywo
 
 ```javascript
 // Normal Function
-function add(x,y){
+function add(x, y) {
   return x + y;
 }
 // Async Function
-async function add(x,y){
+async function add(x, y) {
   return x + y;
 }
 ```
@@ -39,25 +39,29 @@ Async functions can make use of the **await** expression. This will pause the **
 ### Example
 
 ```javascript
-const getData = async() => { 
-    var y = await "Hello";
-    console.log(y); 
-} 
-  
-console.log(1); 
-getData(); 
-console.log(2); 
+const getData = async () => {
+  var y = await "Hello";
+  console.log(y);
+};
+
+console.log(1);
+getData();
+console.log(2);
+```
+
 ```
 Output:
 1
 2
 Hello
 
-Note: Console prints 2 before "Hello".
+// Note: Console prints 2 before "Hello".
+```
 
+### for more see [here](https://www.geeksforgeeks.org/async-await-function-in-javascript/)
 
-for more see [here](https://www.geeksforgeeks.org/async-await-function-in-javascript/)
-for more examples see [here](https://javascript.info/async-await)
-The above link also have little tasks to do. Try to do those.
+### for more examples see [here](https://javascript.info/async-await)
 
+## Excercise
 
+### The above link also have little tasks to do. Try to do those.
