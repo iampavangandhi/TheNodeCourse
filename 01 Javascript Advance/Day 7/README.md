@@ -56,7 +56,7 @@ Hello
 Note: Console prints 2 before "Hello".
 
 
-for more see [here](https://www.geeksforgeeks.org/async-await-function-in-javascript/)7
+for more see [here](https://www.geeksforgeeks.org/async-await-function-in-javascript/)
 for more examples see [here](https://javascript.info/async-await)
 The above link also have little tasks to do. Try to do those.
 
