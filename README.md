@@ -35,7 +35,7 @@
 | WEEK       | Topics Covered                                                                                                                                                                                        |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1          | Javascript Advance: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/)] |
-| 2          | Basic of Nodejs & Web Dev                                                                                                                                                                             |
+| 2          | Basics of Web Dev and Nodejs                                                                                                                                                                          |
 | 2          | Getting started with Nodejs                                                                                                                                                                           |
 | 3          | Expressjs                                                                                                                                                                                             |
 | 3          | Bodyparser, Middlewares and View engines(EJS)                                                                                                                                                         |
