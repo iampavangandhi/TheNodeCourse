@@ -15,7 +15,7 @@ It is also known as ES6.
 
 ### ECMAScript 6 Features
 
-- string + array + object APIs
+- String + Array + Object APIs
 - Symbols
 - Template Literals
 - Let + Const
