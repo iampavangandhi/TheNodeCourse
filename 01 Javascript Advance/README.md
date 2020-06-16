@@ -12,9 +12,7 @@
 | 6          | Promise & Arrow Functions: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Day6), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Day6/)]                      |
 | 7          | Async/Await: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Day7), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Day7/)]                                    |
 
-## Concepts
-
-### Must read [article](https://medium.com/@madasamy/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7)
+## Concepts (Must read [article](https://medium.com/@madasamy/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7))
 
 | S.No | Concepts                                                                                                                                                                                                                                  |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
