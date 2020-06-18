@@ -1,8 +1,8 @@
 # Topic 2
 
-## Basics of Nodejs and NPM
+## Basics of Nodejs and Installation
 
-### Nodejs Installaton
+### Nodejs Installation
 
-[Link](https://nodejs.org/en/download/): (Install The LTS One)
-[Tutorial](https://www.youtube.com/watch?v=JINE4D0Syqw)
+- [Download Link](https://nodejs.org/en/download/): (Install The LTS One)
+- [Youtube Tutorial](https://www.youtube.com/watch?v=JINE4D0Syqw)
