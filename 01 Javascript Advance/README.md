@@ -1,4 +1,4 @@
-# 01 Javascript Advance
+# Javascript Advance
 
 ## Topics
 
