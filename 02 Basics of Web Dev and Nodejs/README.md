@@ -2,10 +2,10 @@
 
 ## Topics
 
-| S.No | Topics                                |
-| ---- | ------------------------------------- |
-| 1    | Intro to Web Dev: [[Repo](), [Web]()] |
-| 2    |                                       |
-| 3    |                                       |
-| 4    |                                       |
-| 5    |                                       |
+| S.No | Topics                                                                                                                                                                                                                                                |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | Intro to Web Dev: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Basics%20of%20Web%20Dev%20and%20Nodejs/Topic1), [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Basics%20of%20Web%20Dev%20and%20Nodejs/Topic1/)] |
+| 2    |                                                                                                                                                                                                                                                       |
+| 3    |                                                                                                                                                                                                                                                       |
+| 4    |                                                                                                                                                                                                                                                       |
+| 5    |                                                                                                                                                                                                                                                       |

@@ -32,17 +32,17 @@
 
 ### ⚡ Learning Track (with links)
 
-| WEEK       | Topics Covered                                                                                                                                                                                        |
-| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1          | Javascript Advance: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/)] |
-| 2          | Basics of Web Dev and Nodejs                                                                                                                                                                          |
-| 2          | Getting started with Nodejs                                                                                                                                                                           |
-| 3          | Expressjs                                                                                                                                                                                             |
-| 3          | Bodyparser, Middlewares and View engines(EJS)                                                                                                                                                         |
-| 4          | Passport Authentication                                                                                                                                                                               |
-| 4          | MongoDB                                                                                                                                                                                               |
-| 5          | CRUD Application (with Heroku Deployment)                                                                                                                                                             |
-| 6 till end | **TradeByte** (main project)                                                                                                                                                                          |
+| WEEK       | Topics Covered                                                                                                                                                                                                                                     |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Javascript Advance: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/)]                                              |
+| 2          | Basics of Web Dev and Nodejs: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Basics%20of%20Web%20Dev%20and%20Nodejs),[Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Basics%20of%20Web%20Dev%20and%20Nodejs/)] |
+| 2          | Getting started with Nodejs                                                                                                                                                                                                                        |
+| 3          | Expressjs                                                                                                                                                                                                                                          |
+| 3          | Bodyparser, Middlewares and View engines(EJS)                                                                                                                                                                                                      |
+| 4          | Passport Authentication                                                                                                                                                                                                                            |
+| 4          | MongoDB                                                                                                                                                                                                                                            |
+| 5          | CRUD Application (with Heroku Deployment)                                                                                                                                                                                                          |
+| 6 till end | **TradeByte** (main project)                                                                                                                                                                                                                       |
 
 ---
 
