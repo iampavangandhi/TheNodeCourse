@@ -32,6 +32,9 @@ Node allows developers to write JavaScript code that runs directly in a computer
 
 After installing node try to do this Save the following in _script.js_ file
 
+After installing node try to do this-<br>
+Save the following in _script.js_ file
+
 ```javascript
 console.log("I am a Node program");
 ```
