@@ -28,7 +28,9 @@ Node allows developers to write JavaScript code that runs directly in a computer
 - In practice, this means that Node is built well to handle asynchronous JavaScript code to perform many asynchronous activities such as reading and writing to the file system, handling connections to database servers, or handling requests as a web server.
 - To handle asynchronous code, Node uses a callback-based system.
 
-## Try this after installation
+## Things to try
+
+### Try this after installation
 
 After installing node try to do this Save the following in _script.js_ file
 
