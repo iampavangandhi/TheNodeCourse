@@ -14,6 +14,13 @@
 - Node.js is platform independent.
 - Node.js uses JavaScript on the server.
 
+### What Can Node.js Do?
+
+- Node.js can generate dynamic page content
+- Node.js can create, open, read, write, delete, and close files on the server
+- Node.js can collect form data
+- Node.js can add, delete, modify data in your database
+
 Node allows developers to write JavaScript code that runs directly in a computer process itself instead of running it in a browser. Node can, therefore, be used to write server-side applications with access to the operating system, file system, and everything else required to build fully-functional applications.
 
 ### Good Reads
