@@ -56,6 +56,8 @@ Now run **server.js** file in terminal using command **node server**<br>
 Here, the server listens to localhost on port 3000 and prints "Server running at http://127.0.0.1:3000/" in command prompt.<br>
 Open a browser and enter url http://127.0.0.1:3000/. The browser will display **Hello World** message on the screen.
 
+* To understand how *require()* works visit this [link](https://codeburst.io/all-about-core-nodejs-part-1-b9f4b0a83278)
+
 ## Node.js Modules
 
 - Consider modules to be the same as JavaScript libraries.
