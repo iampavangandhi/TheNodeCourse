@@ -30,17 +30,17 @@
 
 ### ⚡ Learning Track (with links)
 
-| WEEK       | Topics Covered                                                                                                                                                                                                                                     |
-| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1          | Javascript Advance: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/)]                                              |
-| 2          | Basics of Web Dev and Nodejs: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Basics%20of%20Web%20Dev%20and%20Nodejs), [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Basics%20of%20Web%20Dev%20and%20Nodejs/)] |
-| 2          | Getting started with Nodejs                                                                                                                                                                                                                        |
-| 3          | Expressjs                                                                                                                                                                                                                                          |
-| 3          | Bodyparser, Middlewares and View engines(EJS)                                                                                                                                                                                                      |
-| 4          | Passport Authentication                                                                                                                                                                                                                            |
-| 4          | MongoDB                                                                                                                                                                                                                                            |
-| 5          | CRUD Application (with Heroku Deployment)                                                                                                                                                                                                          |
-| 6 till end | **TradeByte** (main project)                                                                                                                                                                                                                       |
+| WEEK       | Topics Covered                                                                                                                                                                                                          |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Javascript Advance: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/)]                   |
+| 2          | Basics of Web Dev and Nodejs: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Web%20Dev%20and%20Nodejs), [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Web%20Dev%20and%20Nodejs/)] |
+| 2          | Getting started with Nodejs: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Web%20Dev%20and%20Nodejs), [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Web%20Dev%20and%20Nodejs/)]  |
+| 3          | Expressjs                                                                                                                                                                                                               |
+| 3          | Bodyparser, Middlewares and View engines(EJS)                                                                                                                                                                           |
+| 4          | Passport Authentication                                                                                                                                                                                                 |
+| 4          | MongoDB                                                                                                                                                                                                                 |
+| 5          | CRUD Application (with Heroku Deployment)                                                                                                                                                                               |
+| 6 till end | **TradeByte** (main project)                                                                                                                                                                                            |
 
 ---
 
@@ -51,7 +51,7 @@
 | Resources Page    | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources), [web](https://iampavangandhi.github.io/TheNodeCourse/resources/)]       |
 | Tradebyte Plan    | [[link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)]                                                                     |
 | Participants Page | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants), [web](https://iampavangandhi.github.io/TheNodeCourse/participants/)] |
-| VS Code Settings | [[link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)] |
+| VS Code Settings  | [[link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)]                                                                       |
 
 ### ⚡ This repo is open for contribution see [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
 
