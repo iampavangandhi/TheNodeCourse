@@ -1,12 +1,12 @@
 # Topic 4
 
-### Nodejs Official Website: [nodejs.org](https://nodejs.org/en/docs/)
+### Nodejs Official Website: [Nodejs.org](https://nodejs.org/en/docs/)
 
-### Youtube Resources: [Detailed](https://youtu.be/fBNz5xF-Kx4), [Brief](https://youtu.be/zQRrXTSkvfw)
+### Youtube Resources: [Detailed](https://youtu.be/fBNz5xF-Kx4) and [Brief](https://youtu.be/zQRrXTSkvfw)
 
 ## Getting Started with Nodejs
 
-### Note: Reference for Topic 4 is taken from [W3School/Nodejs](https://www.w3schools.com/nodejs/)
+### Reference for Topic 4 is taken from [W3School/Nodejs](https://www.w3schools.com/nodejs/)
 
 Once we have installed Node.js, let's build our first web server.
 Make a new file server.js and write the following code in it.
