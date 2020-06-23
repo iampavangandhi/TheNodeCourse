@@ -1,4 +1,4 @@
-# Basics of Web Dev and Nodejs
+# Web Dev and Nodejs
 
 ## Topics
 
