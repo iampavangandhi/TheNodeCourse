@@ -13,7 +13,7 @@
 | 7    | RESTful APIs                          |
 | X    | Self-Evaluating Assignment            |
 
-## Others
+## Important
 
 | S.No | Topics                           |
 | ---- | -------------------------------- |
