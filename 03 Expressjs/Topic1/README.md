@@ -38,4 +38,4 @@ app.listen(3000);
 node server.js
 ```
 
-### 📁 Sample Code: [Here](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Topic1/Code)
+### 📁 Sample Code: [Here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic1/Code)
