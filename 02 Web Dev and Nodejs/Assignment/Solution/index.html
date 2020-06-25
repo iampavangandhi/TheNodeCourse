@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      html {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-items: center;
+      }
+      input {
+        display: block;
+        margin: 8px 0;
+      }
+    </style>
+    <title>Node Form</title>
+  </head>
+  <body>
+    <h1>Hello Node 🤓</h1>
+    <form action="/form" method="post">
+      <input type="text" name="name" placeholder="name" />
+      <input type="number" name="age" placeholder="age" />
+      <input type="email" name="email" placeholder="email" />
+      <input type="text" name="city" placeholder="city" />
+      <button style="width: 100%;" type="submit">Submit Form</button>
+    </form>
+  </body>
+</html>

@@ -17,4 +17,4 @@ Use of **Expressjs** is not allowed. You can use javascript methods for string m
 }
 ```
 
-### Solution: (Will update after 24hrs)
+### Solution: [Here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Web%20Dev%20and%20Nodejs/Assignment/Solution)
