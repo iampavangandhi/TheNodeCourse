@@ -14,8 +14,11 @@ app.get("/", function (req, res) {
 
 //About Route
 app.get("/about", function (req, res) {
-  //Sending About Me! as Response
-  res.send("About Me!");
+  //Sending JSON as Response
+  res.json({
+    name: "Pavan",
+    page: "About Me",
+  });
 });
 
 //Listening at Port:3000
