@@ -1,8 +1,10 @@
 # Request & Response
 
-## Resources for Request: [Link](https://www.javatpoint.com/expressjs-request#:~:text=js%20Request%20Object-,Express.,HTTP%20headers%2C%20and%20so%20on.)
+### Resources for Request: [Link](https://www.javatpoint.com/expressjs-request#:~:text=js%20Request%20Object-,Express.,HTTP%20headers%2C%20and%20so%20on.)
 
-## Resources for Response: [Link](https://www.javatpoint.com/expressjs-response)
+### Resources for Response: [Link](https://www.javatpoint.com/expressjs-response)
+
+## Express.js Request and Response objects
 
 - Express.js Request and Response objects are the parameters of the callback function which is used in Express applications.<br /><br />
 - The **express.js request object (req)** represents the HTTP request and has properties for the request query string, parameters, body, HTTP headers, and so on.<br /><br />
@@ -14,7 +16,7 @@
 **Syntax**
 
 ```javascript
-app.get(‘/’, function (req, res) { })
+app.get("/", function (req, res) {});
 ```
 
 ## Response Object
@@ -24,11 +26,15 @@ The response object specifies the HTTP response when an Express app gets an HTTP
 In thie Topic 1, we have seen a basic application which serves HTTP request for the homepage. <br />
 Routing refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on).
 
+### Sample Code
+
 Now, let's code to a program to handle more types of HTTP requests. You can see code in Code Folder. Here's the [Link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic2/Code/Http%20Requests))
 
 You can run it by doing -
 
 ```
+npm install
+
 node server.js
 ```
 
@@ -42,7 +48,21 @@ Now you can try different requests at [http://localhost:8081](http://localhost:8
 
 ## File Uploader Form
 
-### Let's try to make a file uploader form. (You can see code in Code Folder. Here's the [link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic2/Code/File%20Uploader))
+Let's try to make a file uploader form. You can see code in Code Folder. Here's the [link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic2/Code/File%20Uploader)
+
+You can run it by doing -
+
+```
+npm install
+
+node server.js
+```
+
+You will see following output -
+
+```
+Example app listening at http://localhost:8081/
+```
 
 ## Cookies Management
 
