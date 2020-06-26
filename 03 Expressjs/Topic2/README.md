@@ -26,9 +26,7 @@ The response object specifies the HTTP response when an Express app gets an HTTP
 In thie Topic 1, we have seen a basic application which serves HTTP request for the homepage. <br />
 Routing refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on).
 
-### Sample Code
-
-Now, let's code to a program to handle more types of HTTP requests. You can see code in Code Folder. Here's the [Link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic2/Code/Http%20Requests))
+📁 Now, let's code to a program to handle more types of HTTP requests. You can see code in Code Folder. **Here's the [Link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic2/Code/Http%20Requests)**
 
 You can run it by doing -
 
@@ -48,7 +46,7 @@ Now you can try different requests at [http://localhost:8081](http://localhost:8
 
 ## File Uploader
 
-Let's try to make a file uploader form. You can see code in Code Folder. Here's the [link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic2/Code/File%20Uploader)
+📁 Let's try to make a file uploader form. You can see code in Code Folder. **Here's the [link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic2/Code/File%20Uploader)**
 
 You can run it by doing -
 
