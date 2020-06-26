@@ -16,6 +16,13 @@ You can print req and res objects which provide a lot of information related to 
 app.get(‘/’, function (req, res) { })  
 ```
 
+## Response Object
+
+The response object specifies the HTTP response when an Express app gets an HTTP request.<br /> The response is sent back to the client browser and allows you to set new cookies value that will write to the client browser.
+
+## 
+
+
 In thie Topic 1, we have seen a basic application which serves HTTP request for the homepage. <br />
 Routing refers to determining how an application responds to a client request to a particular endpoint, which is a URI (or path) and a specific HTTP request method (GET, POST, and so on).
 
