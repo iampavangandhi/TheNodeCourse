@@ -47,10 +47,10 @@
 
 | S.No. | Sections          | Links                                                                                                                                                   |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Resources Page    | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources), [web](https://iampavangandhi.github.io/TheNodeCourse/resources/)]       |
-| 2     | Tradebyte Plan    | [[link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)]                                                                     |
-| 3     | Participants Page | [[repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants), [web](https://iampavangandhi.github.io/TheNodeCourse/participants/)] |
-| 4     | VS Code Settings  | [[link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)]                                                                       |
+| 1     | Resources Page    | [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources), [Web](https://iampavangandhi.github.io/TheNodeCourse/resources/)]       |
+| 2     | Tradebyte Plan    | [[Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)]                                                                     |
+| 3     | Participants Page | [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants), [Web](https://iampavangandhi.github.io/TheNodeCourse/participants/)] |
+| 4     | VS Code Settings  | [[Link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)]                                                                       |
 
 ---
 
