@@ -20,7 +20,7 @@
 
 ---
 
-### ⚡ Prerequisites for the course with resources to learn them.
+### ⚡ Prerequisites for the course with resources to learn.
 
 - [HTML5](https://youtu.be/UB1O30fR-EE)
 - [CSS3](https://youtu.be/yfoY53QXEnI)
@@ -30,7 +30,7 @@
 
 ---
 
-### ⚡ Learning Track (with links)
+### ⚡ Learning Track 
 
 | WEEK       | Topics Covered                            | Links                                                                                                                                                                                     |
 | ---------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +45,7 @@
 
 ### ⚡ Resources and Other Sections
 
-| S.No. | Sections List     | Links                                                                                                                                                    |
+| S.No. | Sections          | Links                                                                                                                                                    |
 | ----- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | Resources Page    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/resources/)        |
 | 2     | Tradebyte Plan    | [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)                                                                        |
