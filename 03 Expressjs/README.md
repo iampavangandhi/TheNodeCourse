@@ -13,10 +13,10 @@
 | 7    | RESTful APIs                          |                                                                                                                                                                          |
 | X    | Self-Evaluating Assignment            |                                                                                                                                                                          |
 
-## Important
+## Important Reads
 
-| S.No | Topics                           | Links |
-| ---- | -------------------------------- | ----- |
-| 1    | Status Codes (Server-side)       |       |
-| 2    | Express.js Scaffolding           |       |
-| 3    | Best Practices for Building APIs |       |
+| S.No | Topics                           | Links                                                                             |
+| ---- | -------------------------------- | --------------------------------------------------------------------------------- |
+| 1    | Status Codes (Server-side)       | [Link](https://www.tutorialspoint.com/http/http_status_codes.htm)                 |
+| 2    | Express.js Scaffolding           | [Link](https://www.geeksforgeeks.org/scaffolding-expressjs-app-scratch/)          |
+| 3    | Best Practices for Building APIs | [Link](https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/) |
