@@ -50,7 +50,7 @@
 | 3     | Participants Page | [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants), [Web](https://iampavangandhi.github.io/TheNodeCourse/participants/)] |
 | 4     | VS Code Settings  | [[Link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)]                                                                       |
 
----                                                                  |
+---  
 
 ### ⚡ This repo is open for contribution see [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
 
