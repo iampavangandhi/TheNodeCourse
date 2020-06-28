@@ -43,7 +43,7 @@
 
 ### ⚡ Resources and Other Sections
 
-| S.No. | Sections          | Links                                                                                                                                                   |
+| S.No. | Sections List     | Links                                                                                                                                                   |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | Resources Page    | [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources), [Web](https://iampavangandhi.github.io/TheNodeCourse/resources/)]       |
 | 2     | Tradebyte Plan    | [[Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)]                                                                     |
