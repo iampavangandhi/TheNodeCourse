@@ -7,10 +7,12 @@ $medium-breakpoint: 42em !default;
 // $header-bg-color: #159957 !default;
 // $header-bg-color-secondary: #155799 !default;
 
+background-image: linear-gradient(to top, #007adf 0%, #00ecbc 100%);
+
 // Headers
 $header-heading-color: #fff !default;
-$header-bg-color: #00dbde !default;
-$header-bg-color-secondary: #fc00ff !default;
+$header-bg-color: #007adf !default;
+$header-bg-color-secondary: #00ecbc !default;
 
 // Default Text
 // $section-headings-color: #159957 !default;
