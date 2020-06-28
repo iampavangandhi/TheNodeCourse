@@ -355,6 +355,9 @@ a {
 }
 
 .site-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
