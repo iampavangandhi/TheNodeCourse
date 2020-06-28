@@ -30,14 +30,14 @@
 
 ### ⚡ Learning Track (with links)
 
-| WEEK       | Topics Covered                                                                                                                                                                                                                    |
-| ---------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1          | Javascript Advance: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/)]                             |
-| 2          | Intro to Web Dev and Begin with Nodejs: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Web%20Dev%20and%20Nodejs), [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Web%20Dev%20and%20Nodejs/)] |
-| 3          | Expressjs with middlewares and templating: [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs), [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/)]                            |
-| 4          | Passport JWT Authentication and MongoDB                                                                                                                                                                                           |
-| 5          | CRUD Application (with Heroku Deployment)                                                                                                                                                                                         |
-| 6 till end | **TradeByte** (Main Project)                                                                                                                                                                                                      |
+| WEEK       | Topics Covered                            | Links                                                                                                                                                                                     |
+| ---------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1          | Javascript Advance                        | [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance), [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/)]         |
+| 2          | Intro to Web Dev and Begin with Nodejs    | [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Web%20Dev%20and%20Nodejs), [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Web%20Dev%20and%20Nodejs/)] |
+| 3          | Expressjs with middlewares and templating | [[Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs), [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/)]                               |
+| 4          | Passport JWT Authentication and MongoDB   |                                                                                                                                                                                           |
+| 5          | CRUD Application (with Heroku Deployment) |                                                                                                                                                                                           |
+| 6 till end | **TradeByte** (Main Project)              |                                                                                                                                                                                           |
 
 ---
 

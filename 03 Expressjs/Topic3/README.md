@@ -40,7 +40,7 @@ Defining routes like above is very tedious to maintain. To separate the routes f
 
 You can run it by doing -
 
-```
+```javascript
 npm install
 
 node server.js
