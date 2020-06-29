@@ -7,7 +7,7 @@
 | 1    | Expressjs Overview                    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic1) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Topic1) |
 | 2    | Request Response                      | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic2) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Topic2) |
 | 3    | Routing and URL Building              | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic3) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Topic3) |
-| 4    | HTTP Methods (GET, POST, PUT, DELETE) |                                                                                                                                                                          |
+| 4    | HTTP Methods (GET, POST, PUT, DELETE) | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic4) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Topic4) |  |
 | 5    | Middlewares with Body-Parser          |                                                                                                                                                                          |
 | 6    | Templating (EJS)                      |                                                                                                                                                                          |
 | 7    | RESTful APIs                          |                                                                                                                                                                          |
