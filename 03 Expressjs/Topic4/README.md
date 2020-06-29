@@ -18,10 +18,10 @@ Here, are the most common methods -
 
 ### To put it in short...
 
-Create - POST
-Read - GET
-Update - PUT
-Delete - DELETE
+- Create - POST
+- Read - GET
+- Update - PUT
+- Delete - DELETE
 
 Now consider we are making a student based application then using following statements we will perform different applications -
 
