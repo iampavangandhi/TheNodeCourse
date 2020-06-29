@@ -13,10 +13,10 @@ Here, are the most common methods -
 | 4    | **DELETE**<br /> The DELETE method requests that the server delete the specified resource                                                                                                                            |
 
 ### To put it in short...
-Create - Post
-Read - Get
-Update - Put
-Delete - Delete
+Create - Post<br />
+Read - Get<br />
+Update - Put<br />
+Delete - Delete<br />
 
 Now consider we are making a student based application then using following statements we will perform different applications -
 ```javascript
