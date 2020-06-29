@@ -32,7 +32,7 @@
 
 ### ⚡ Learning Track 
 
-| WEEK       | Topics Covered                            | Links                                                                                                                                                                                     |
+| WEEK       | Topics                                    | Links                                                                                                                                                                                     |
 | ---------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1          | Javascript Advance                        | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/)         |
 | 2          | Intro to Web Dev and Begin with Nodejs    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Web%20Dev%20and%20Nodejs) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Web%20Dev%20and%20Nodejs/) |
