@@ -52,6 +52,6 @@
 
 ---
 
-### ⚡ This repo is open for contribution see [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
+### ⚡ This repo is open for contribution see [this](https://iampavangandhi.github.io/TheNodeCourse/contributing) for details.
 
 ### ⚡ Kindly 🌟 the repo and follow us 🤓
