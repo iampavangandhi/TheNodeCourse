@@ -1,6 +1,6 @@
 # Javascript Advance
 
-## Topics
+## Topics -
 
 | Days | Topics                                         | Links                                                                                                                                                                                       |
 | ---- | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -13,7 +13,9 @@
 | 7    | Async/Await                                    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance/Day7) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/Day7/) |
 | X    | Google Meet Session                            | [Quiz 2](https://docs.google.com/forms/d/e/1FAIpQLScXv92MiheZn7wXwd38sAeCdFmW480cZ2E4Bs-pc2ZcYxyA6w/viewform)                                                                               |
 
-## Concepts (Must read [article](https://medium.com/@madasamy/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7))
+## Concepts -
+
+### Must read [article](https://medium.com/@madasamy/15-javascript-concepts-that-every-nodejs-programmer-must-to-know-6894f5157cb7)
 
 | S.No. | Concepts                          | Links                                                                                                                                                                                           |
 | ----- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
