@@ -8,12 +8,13 @@
 
 **HTTP defines a set of request methods to indicate the desired action to be performed for a given resource.**
 Here, are the most common methods -
-| S.No. | Method | Description |
-|------|---| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | GET | The GET method requests a representation of the specified resource. Requests using GET should only retrieve data and should have no other effect. |
-| 2 | POST | The POST method requests that the server accept the data enclosed in the request as a new object/entity of the resource identified by the URI. |
-| 3 | PUT | The PUT method requests that the server accept the data enclosed in the request as a modification to existing object identified by the URI. If it does not exist then the PUT method should create one. |
-| 4 | DELETE | The DELETE method requests that the server delete the specified resource. |
+
+| S.No. | Method | Description                                                                                                                                                                                             |
+| ----- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | GET    | The GET method requests a representation of the specified resource. Requests using GET should only retrieve data and should have no other effect.                                                       |
+| 2     | POST   | The POST method requests that the server accept the data enclosed in the request as a new object/entity of the resource identified by the URI.                                                          |
+| 3     | PUT    | The PUT method requests that the server accept the data enclosed in the request as a modification to existing object identified by the URI. If it does not exist then the PUT method should create one. |
+| 4     | DELETE | The DELETE method requests that the server delete the specified resource.                                                                                                                               |
 
 ### To put it in short...
 
