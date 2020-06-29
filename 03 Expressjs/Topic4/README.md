@@ -1,6 +1,8 @@
 # HTTP Methods (GET, POST, PUT, DELETE)
 
-### Youtube Resourse: [Must Watch](https://www.youtube.com/watch?v=guYMSP7JVTA)
+## Youtube Resourse: [Must Watch](https://www.youtube.com/watch?v=guYMSP7JVTA)
+
+## Resource: [link](https://scotch.io/courses/build-a-restful-nodejs-api/post-put-delete-requests)
 
 ### Resource: [link](https://scotch.io/courses/build-a-restful-nodejs-api/post-put-delete-requests)
 
@@ -41,16 +43,15 @@ app.put("/api/student/:id", student.update);
 app.delete("/api/students/:id", student.delete);
 ```
 
-### Let's try to build a TODO list application
+## Let's try to build a to-do list application
 
-📁 You can see code in Code Folder. **Here's the [link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic4/Code)**
+[📁](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic4/Code)
 
-You can run it by doing -
+<p> To run application </p>
+<ol>
+<li> Run <code> npm install </code> to install all needed dependencies </li>
 
-```javascript
-npm install
+<li> Then start the server using <code> node index.js </code> </li>
 
-node index.js
-```
-
-You can see the output at - http://localhost:3000/
+<li> Navigate to your browser <code> http://localhost:3000/ </code> to view the app </li>
+</ol>
