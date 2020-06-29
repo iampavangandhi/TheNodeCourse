@@ -35,3 +35,15 @@ Now consider we are making a student based application then using following stat
     // Delete a Student with Id
     app.delete('/api/students/:id', student.delete);
 ```
+
+## Let's try to build a to-do list application
+[📁](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic4/Code)  
+<p> To run application </p>
+
+<ol>
+<li> Run <code> npm install </code> to install all needed dependencies </li>
+
+<li> Then start the server using <code> node index.js </code> </li>
+
+<li> Navigate to your browser <code> http://localhost:3000/ </code> to view the app </li>
+</ol>
