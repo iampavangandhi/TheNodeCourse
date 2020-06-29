@@ -3,8 +3,8 @@
 ## Youtube Resourse: [Must Watch](https://www.youtube.com/watch?v=guYMSP7JVTA)
 ## Resource: [link](https://scotch.io/courses/build-a-restful-nodejs-api/post-put-delete-requests)
 
-**HTTP defines a set of request methods to indicate the desired action to be performed for a given resource.**
-Here, are the most common methods - 
+**HTTP defines a set of request methods to indicate the desired action to be performed for a given resource.**<br/>
+Here, are the most common methods - <br />
 | S.No | Method & Description                                                                                                                                                                                                 |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1    | **GET**<br /> The GET method requests a representation of the specified resource. Requests using GET should only retrieve data and should have no other effect.**                                                    |
