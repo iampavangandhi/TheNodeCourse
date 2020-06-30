@@ -28,9 +28,9 @@
 
 ---
 
-### ⚡ Learning Track 
+### ⚡ Learning Track
 
-| WEEK       | Topics                                    | Links                                                                                                                                                                                     |
+| Week       | Topics Covered                            | Links                                                                                                                                                                                     |
 | ---------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1          | Javascript Advance                        | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/01%20Javascript%20Advance) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/01%20Javascript%20Advance/)         |
 | 2          | Intro to Web Dev and Begin with Nodejs    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Web%20Dev%20and%20Nodejs) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Web%20Dev%20and%20Nodejs/) |
@@ -43,12 +43,12 @@
 
 ### ⚡ Resources and Other Sections
 
-| S.No. | Sections          | Links                                                                                                                                                    |
-| ----- | ----------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1     | Resources Page    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/resources/)        |
-| 2     | Tradebyte Plan    | [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)                                                                        |
-| 3     | Participants Page | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants)  \| [Web](https://iampavangandhi.github.io/TheNodeCourse/participants/) |
-| 4     | VS Code Settings  | [Link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)                                                                          |
+| S.No. | Sections          | Links                                                                                                                                                   |
+| ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1     | Resources Page    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/resources/)       |
+| 2     | Tradebyte Plan    | [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)                                                                       |
+| 3     | Participants Page | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/participants/) |
+| 4     | VS Code Settings  | [Link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)                                                                         |
 
 ---
 
