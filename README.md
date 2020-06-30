@@ -1,4 +1,4 @@
-# TheNodeCourse ![License](https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&style=flat-square) ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
+# TheNodeCourse ![License](https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square) ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
 
 ### ⚡ Webpage [Link](https://iampavangandhi.github.io/TheNodeCourse/) build using [Github Pages](https://pages.github.com/)
 
