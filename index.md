@@ -1,4 +1,4 @@
-# TheNodeCourse ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
+# TheNodeCourse &nbsp; &nbsp; &nbsp; ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
 
 ![logo](logo.png)
 
