@@ -1,4 +1,4 @@
-# Middlewares with Third Party Middleware like Body-Parser
+# Middlewares with Third Party Middlewares
 
 ### Resources for middlewares: [Link](https://www.javatpoint.com/expressjs-middleware) and [Link](https://www.tutorialspoint.com/expressjs/expressjs_middleware.htm)
 
