@@ -1,20 +1,32 @@
-# TheNodeCourse &nbsp; &nbsp; ![License](https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square) ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Contributors](https://img.shields.io/github/contributors/iampavangandhi/TheNodeCourse?color=%2308da90&label=Contributors&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
+<div align="center">
+
+# **TheNodeCourse** 
+
+### ⚡ Repo [https://github.com/iampavangandhi/TheNodeCourse](https://github.com/iampavangandhi/TheNodeCourse) <br> 🔧 build using [Github Pages](https://pages.github.com/)
+
+![License](https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square) ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Contributors](https://img.shields.io/github/contributors/iampavangandhi/TheNodeCourse?color=%2308da90&label=Contributors&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
 
 ![logo](logo.png)
 
+</div>
+
+---
+
 ### ⚡ TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week course including a simple CRUD app after which we will move to the main project **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)**.
+
+### ⚡ **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)** is a Stock Trading simulation game that we will build in **TheNodeCourse** as our Capstone Project.
 
 ---
 
 ### ⚡ Topics Covered
 
-- Javascript Advance
-- Nodejs and NPM
-- Expressjs
-- Passport Authentication
-- MongoDB
-- Postman Testing
-- Testing and Heroku Deployment
+- [x] Javascript Advance
+- [x] Nodejs and NPM
+- [x] Expressjs
+- [x] Passport Authentication
+- [x] MongoDB
+- [x] Postman Testing
+- [x] Testing and Heroku Deployment
 
 ---
 
