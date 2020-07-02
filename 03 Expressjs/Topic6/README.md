@@ -59,7 +59,7 @@ You must specify the filename option for the template with the include call unle
 
 You'll likely want to use the raw output tag (<%-) with your include to avoid double-escaping the HTML output.
 
-```javascript
+```
 <ul>
   <% users.forEach(function(user){ %>
     <%- include('user/show', {user: user}) %>
