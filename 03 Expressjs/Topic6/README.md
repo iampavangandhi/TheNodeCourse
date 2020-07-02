@@ -1,15 +1,19 @@
 # Templating (EJS)
 
-## Resource: [link1](https://robdodson.me/how-to-use-ejs-in-express/) and [link2](https://learn.co/lessons/using-ejs-in-express)
-## Youtube Resource: [link](https://www.youtube.com/playlist?list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt)
+### Resource: [link1](https://robdodson.me/how-to-use-ejs-in-express/) and [link2](https://learn.co/lessons/using-ejs-in-express)
+### Youtube Resource: [link](https://www.youtube.com/playlist?list=PL7sCSgsRZ-slYARh3YJIqPGZqtGVqZRGt)
 
-### What is template engine?
+## Template Engines
+
 A template engine enables you **to use static template files in your application**. At runtime, the template engine replaces variables in a template file with actual values, and transforms the template into an HTML file sent to the client. This approach makes it easier to design an HTML page.
 
 *Some popular template engines that work with Express are Pug, Mustache, and EJS.*
 
 ### Installation
- <code>npm install ejs</code>
+
+```javascript
+npm install ejs
+```
  
 ### Features of EJS
 - Features
@@ -26,7 +30,8 @@ A template engine enables you **to use static template files in your application
 - Complies with the Express view system
 
 ### A Simple Example
-```
+
+```javascript
 <% if (user) { %>
   <h2><%= user.name %></h2>
 <% } %>
@@ -39,7 +44,7 @@ A template engine enables you **to use static template files in your application
 - <code><%_</code> 'Whitespace Slurping' Scriptlet tag, strips all whitespace before it
 - <code><%=</code> Outputs the value into the template (escaped)
 - <code><%-</code> Outputs the unescaped value into the template
-- <code><%#</code> Comment tag, no execution, no output
+- <code><%\#</code> Comment tag, no execution, no output
 - <code><%%</code> Outputs a literal '<%'
 - <code>%%></code> Outputs a literal '%>'
 - <code>%></code> Plain ending tag
@@ -54,7 +59,7 @@ You must specify the filename option for the template with the include call unle
 
 You'll likely want to use the raw output tag (<%-) with your include to avoid double-escaping the HTML output.
 
-```
+```javascript
 <ul>
   <% users.forEach(function(user){ %>
     <%- include('user/show', {user: user}) %>
@@ -67,9 +72,10 @@ Includes are inserted at runtime, so you can use variables for the path in the i
 
 ## Custom delimiters
 Custom delimiters can be applied on a per-template basis, or globally:
-```
-let ejs = require('ejs'),
-    users = ['geddy', 'neil', 'alex'];
+
+```javascript
+const ejs = require('ejs'),
+      users = ['geddy', 'neil', 'alex'];
  
 // Just one template
 ejs.render('<p>[?= users.join(" | "); ?]</p>', {users: users}, {delimiter: '?', openDelimiter: '[', closeDelimiter: ']'});
@@ -82,18 +88,22 @@ ejs.closeDelimiter = ']';
 ejs.render('<p>[?= users.join(" | "); ?]</p>', {users: users});
 // => '<p>geddy | neil | alex</p>'
 ```
+
 ### Caching
 EJS ships with a basic in-process cache for caching the intermediate JavaScript functions used to render templates. It's easy to plug in LRU caching using Node's lru-cache library:
-```
+
+```javascript
 let ejs = require('ejs'),
     LRU = require('lru-cache');
 ejs.cache = LRU(100); // LRU cache with 100-item limit
 ```
+
 *If you want to clear the EJS cache, call ejs.clearCache. If you're using the LRU cache and need a different limit, simple reset ejs.cache to a new instance of the LRU.*
 
 ### Custom file loader
 The default file loader is fs.readFileSync, if you want to customize it, you can set ejs.fileLoader.
-```
+
+```javascript
 let ejs = require('ejs');
 let myFileLoad = function (filePath) {
   return 'myFileLoad: ' + fs.readFileSync(filePath);
@@ -101,11 +111,13 @@ let myFileLoad = function (filePath) {
  
 ejs.fileLoader = myFileLoad;
 ```
+
 *With this feature, you can preprocess the template before reading it.*
 
 ### Layouts
 EJS does not specifically support blocks, but layouts can be implemented by including headers and footers, like so:
-```
+
+```javascript
 <%- include('header') -%>
 <h1>
   Title
