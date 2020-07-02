@@ -31,7 +31,7 @@ npm install ejs
 
 ### A Simple Example
 
-```html
+```
 <% if (user) { %>
   <h2><%= user.name %></h2>
 <% } %>
@@ -117,7 +117,7 @@ ejs.fileLoader = myFileLoad;
 ### Layouts
 EJS does not specifically support blocks, but layouts can be implemented by including headers and footers, like so:
 
-```html
+```
 <%- include('header') -%>
 <h1>
   Title
