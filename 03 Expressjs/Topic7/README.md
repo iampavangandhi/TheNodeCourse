@@ -2,7 +2,7 @@
 
 ### Youtube Resource: [Link](https://youtu.be/vjf774RKrLc)
 
-### Resources: [Link](https://www.tutorialspoint.com/expressjs/expressjs_restful_apis.htm)
+### REST Resources: [Link](https://www.tutorialspoint.com/expressjs/expressjs_restful_apis.htm)
 
 ### REST API Architectural Constraints: [Link](https://www.geeksforgeeks.org/rest-api-architectural-constraints/)
 
@@ -39,7 +39,7 @@ There are a multitude of HTTP status codes, here is just a few of the pertinent 
 
 Let us now create this API in Express. We will be using JSON as our transport data format as it is easy to work with in JavaScript and has other benefits. We will be using **[POSTMAN](https://www.postman.com/)** for API Testing so Download and Install **[POSTMAN](https://www.postman.com/)** in your system.
 
-## POSTMAN (*Mandatory to learn)
+## POSTMAN (\*Mandatory to learn)
 
 Postman is one of the most popular software testing tools which is used for API testing. With the help of this tool, developers can easily create, test, share, and document APIs.
 
@@ -68,4 +68,4 @@ npm server.js
 
 Then Test it using **[POSTMAN](https://www.postman.com/)**.
 
-### After completing the Topic 7 read the Important Reads Listed in the Expressjs Page: [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs) and [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/).
+### \*After completing the Topic 7 read the Important Reads Listed in the Expressjs Page: [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs) and [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/).
