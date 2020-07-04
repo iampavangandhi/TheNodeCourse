@@ -14,7 +14,7 @@
 | 4     | HTTP Methods (GET, POST, PUT, DELETE) | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic4) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Topic4) |
 | 5     | Middlewares with Body-Parser          | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic5) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Topic5) |
 | 6     | Templating (EJS)                      | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic6) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Topic6) |
-| 7     | RESTful APIs                          | Soon                                                                                                                                                                     |
+| 7     | RESTful APIs                          | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic7) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Topic7) |
 | X     | Self-Evaluating Assignment            | Soon                                                                                                                                                                     |
 
 ## Important Reads -
