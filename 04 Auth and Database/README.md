@@ -27,3 +27,5 @@
 | 1    | Sessions and Cookies  |
 | 2    | Error Handling        |
 | 3    | Testing and Debugging |
+
+### End of the Week Assignment [Soon]()
