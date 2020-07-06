@@ -16,4 +16,8 @@
 
 ### Awesome Express: [Link](https://github.com/rajikaimal/awesome-express)
 
+## Courses
+
+### 👨‍🎓 A list of web development courses (free and paid): [Link](https://github.com/lndgalante/courses-list)
+
 ### More coming soon...
