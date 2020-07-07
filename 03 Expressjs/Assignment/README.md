@@ -1,4 +1,4 @@
-# # Self-Evaluating Assignment 2 (Week 3)
+# Self-Evaluating Assignment 2 (Week 3)
 
 Note this is a compulsory assignment and you guys will be marked based on this assignment
 
