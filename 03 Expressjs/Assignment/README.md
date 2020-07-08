@@ -1,6 +1,6 @@
 # Self-Evaluating Assignment 2 (Week 3)
 
-Note this is a compulsory assignment and you guys will be marked based on this assignment
+Note: This is a **Compulsory Assignment** and you guys will be marked based on this assignment.
 
 ## Task
 
@@ -20,4 +20,4 @@ Use CSS for Styling the **Todo App**. You can use javascript methods for any typ
 - Use GET and POST for adding and listing Todos.
 - HTML by default doesn't support DELETE Method so try to implement it the other way.
 
-### Solution: (After 24hrs)
+### Solution: (After 48hrs)
