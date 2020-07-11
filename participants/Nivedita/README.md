@@ -3,7 +3,7 @@
 - **Username: nivedita0604**
 - **Name: Nivedita**
 - **Github Link: https://github.com/nivedita0604**
-- **Skills: C++ | HTML | CSS | JS | VUE.js**
+- **Skills: C++ \| HTML \| CSS \| JS \| VUE.js**
 
 ## Introduction
 

@@ -3,7 +3,7 @@
 - **Username: Anjalikumari148**
 - **Name: Kumari Anjali**
 - **Github Link: https://github.com/Anjalikumari148**
-- **Skills: C | C++ | HTML | CSS | JS | VUE.js**
+- **Skills: C \| C++ \| HTML \| CSS \| JS \| VUE.js**
 
 ## Introduction
 

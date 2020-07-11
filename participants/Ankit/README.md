@@ -8,7 +8,7 @@
 
 ### Github-link : [Link](https://github.com/howdyAnkit)
 
-### Skills: HTML/CSS | Javascript | Rest Api | Java | Bootstrap | Netlify | Linux | Spring Framework
+### Skills: HTML/CSS | Javascript | Rest Api | Java | Bootstrap | Linux | Spring Framework
 
 \_\_
 

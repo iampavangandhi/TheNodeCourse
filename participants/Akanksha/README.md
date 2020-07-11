@@ -3,7 +3,7 @@
 - **Username: Akankshabhasin**
 - **Name: Akanksha**
 - **Github Link: https://github.com/akankshabhasin**
-- **Skills: C++ | HTML | CSS | JS | Actions on Google**
+- **Skills: C++ \| HTML \| CSS \| JS \| Actions on Google**
 
 ## Introduction
 
@@ -16,6 +16,6 @@ I love dancing and photography.
 ## Social Link:
 
 - [LinkedIn](https://www.linkedin.com/in/akankshabhasin/)
-<!-- - [Instagram](https://www.instagram.com/akankshab786/) -->
+- [Instagram](https://www.instagram.com/akankshab786/)
 
 ## Here to learn and give my 💯 to my work.

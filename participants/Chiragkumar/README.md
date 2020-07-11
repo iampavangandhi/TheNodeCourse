@@ -6,7 +6,7 @@
 
 ### Github-link: [Link](https://github.com/CHIRAG202)
 
-### Skills: HTML/CSS| Javascript | C++ | Java| MYSQL
+### Skills: HTML/CSS | Javascript | C++ | Java| MYSQL
 
 ## Introduction
 
