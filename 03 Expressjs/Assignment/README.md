@@ -4,7 +4,7 @@ Note: This is a **Compulsory Assignment** and you guys will be marked based on t
 
 ## Task
 
-Create a simple **Todo App** using all the things we covered till now. The frontend will be in EJS and The Backend is in Expressjs use additional packages if required. 
+Create a simple **Todo App** using all the things we covered till now. The frontend will be in EJS and The Backend is in Expressjs use additional packages if required.
 
 ### Features
 
@@ -20,4 +20,4 @@ Use CSS for Styling the **Todo App**. You can use javascript methods for any typ
 - Use GET and POST for adding and listing Todos.
 - HTML by default doesn't support DELETE Method so try to implement it the other way.
 
-### Solution: (After 48hrs)
+### Solution: [Link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Assignment/Solution)
