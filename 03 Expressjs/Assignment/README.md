@@ -20,4 +20,4 @@ Use CSS for Styling the **Todo App**. You can use javascript methods for any typ
 - Use GET and POST for adding and listing Todos.
 - HTML by default doesn't support DELETE Method so try to implement it the other way.
 
-### Solution: [Link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Assignment/Solution)
+### Solution: **[Link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Assignment/Solution)**
