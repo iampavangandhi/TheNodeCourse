@@ -12,11 +12,11 @@
 
 ### TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week course including a simple CRUD app after which we will move to the main project **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)**.
 
-### **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)** is a Stock Simulation WebApp that we will build in TheNodeCourse.
+### **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)** is a Stock Simulation WebApp that we will build as our Main Project.
 
 ---
 
-### ⚡ Topics Covered
+## ⚡ Topics Covered
 
 - [x] Javascript Advance
 - [x] Nodejs and NPM
@@ -26,7 +26,7 @@
 - [x] Postman Testing
 - [x] Testing and Heroku Deployment
 
-### ⚡ Prerequisites with Resources.
+## ⚡ Prerequisites with Resources.
 
 | S.No. | Topics         | Links                                                                                         |
 | ----- | -------------- | --------------------------------------------------------------------------------------------- |
