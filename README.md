@@ -53,7 +53,8 @@
 | 2     | Tradebyte Plan    | [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)                                                                       |
 | 3     | Participants Page | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/participants/) |
 | 4     | VS Code Settings  | [Link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)                                                                         |
+| 5     | Assignments Page  | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/assignments) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/assignments/)   |
 
 ### ⚡ This repo is open for contribution see [this](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
 
-### ⚡ Kindly 🌟 the repo and follow us.
+### ⚡ Show some ❤️ by starring 🌟 the the repository!
