@@ -14,6 +14,8 @@
 
 ### ⚡ **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)** is a Stock Trading simulation game that we will build in TheNodeCourse as our Capstone Project.
 
+<br />
+
 ### ⚡ Topics Covered
 
 - [x] Javascript Advance
@@ -56,6 +58,8 @@
 | 5     | Assignments Page  | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/assignments) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/assignments/)   |
 
 ### ⚡ This repo is open for contribution see [this](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
+
+<br />
 
 ---
 
