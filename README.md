@@ -10,11 +10,9 @@
 
 </div>
 
-### ⚡ TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week course including a simple CRUD app after which we will move to the main project **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)**.
+### TheNodeCourse designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week course including a simple CRUD app after which we will move to the main project **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)**.
 
-### ⚡ **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)** is a Stock Trading simulation game that we will build in TheNodeCourse as our Capstone Project.
-
-<br />
+### **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)** is a Stock Simulation WebApp that we will build in TheNodeCourse as our Main Project.
 
 ### ⚡ Topics Covered
 
@@ -57,9 +55,7 @@
 | 4     | VS Code Settings  | [Link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)                                                                         |
 | 5     | Assignments Page  | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/assignments) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/assignments/)   |
 
-### ⚡ This repo is open for contribution see [this](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
-
-<br />
+### ⚡ This repo is open for contribution see [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
 
 ---
 
