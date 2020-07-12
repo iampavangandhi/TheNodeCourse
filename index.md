@@ -27,7 +27,7 @@
 | 1     | HTML5          | [Crash Course](https://youtu.be/UB1O30fR-EE)                                                  |
 | 2     | CSS3           | [Crash Course](https://youtu.be/yfoY53QXEnI)                                                  |
 | 3     | Javascript     | [Complete Playlist](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ) |
-| 4     | Git and Github | [English](https://youtu.be/SWYqp7iY_Tc) \| [Hindi](https://youtu.be/iR5WIknxdkY)              |
+| 4     | Git and Github | [English(en)](https://youtu.be/SWYqp7iY_Tc) \| [Hindi(hi)](https://youtu.be/iR5WIknxdkY)      |
 | 5     | Command line   | [Windows](https://youtu.be/QISdBQDEiJ8) \| [Linux & Mac](https://youtu.be/BGjTboXjH28)        |
 
 ---
