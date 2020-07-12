@@ -1,6 +1,6 @@
 # Assignments
 
-## Self-Evaluating Assignments
+## Self-Evaluation Based
 
 | S.No. | Sections                             | Links                                                                                                                                                                                                           |
 | ----- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -8,6 +8,6 @@
 | 2     | Self-Evaluating Assignment 2 (Week3) | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Assignment) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/Assignment)                                |
 | 3     | Self-Evaluating Assignment 3 (Week4) | **Soon...**                                                                                                                                                                                                     |
 
-## Submission Based Assignments
+## Submission Based
 
 **Soon...**
