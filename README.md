@@ -14,8 +14,6 @@
 
 ### **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)** is a Stock Simulation WebApp that we will build as our Main Project.
 
----
-
 ## ⚡ Topics Covered
 
 - [x] Javascript Advance
@@ -36,7 +34,7 @@
 | 4     | Git and Github | [English(en)](https://youtu.be/SWYqp7iY_Tc) \| [Hindi(hi)](https://youtu.be/iR5WIknxdkY)      |
 | 5     | Command line   | [Windows](https://youtu.be/QISdBQDEiJ8) \| [Linux & Mac](https://youtu.be/BGjTboXjH28)        |
 
-### ⚡ Learning Track
+## ⚡ Learning Track
 
 | Week       | Topics Covered                            | Links                                                                                                                                                                                     |
 | ---------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,7 +45,7 @@
 | 5          | CRUD Application (with Heroku Deployment) |                                                                                                                                                                                           |
 | 6 till end | **TradeByte** (Main Project)              |                                                                                                                                                                                           |
 
-### ⚡ Resources and Other Sections
+## ⚡ Resources and Other Sections
 
 | S.No. | Sections          | Links                                                                                                                                                   |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
