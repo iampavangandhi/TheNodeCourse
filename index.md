@@ -20,13 +20,15 @@
 
 ---
 
-### ⚡ Prerequisites for the course with resources to learn.
+### ⚡ Prerequisites with Resources.
 
-- HTML5: [Crash Course](https://youtu.be/UB1O30fR-EE)
-- CSS3: [Crash Course](https://youtu.be/yfoY53QXEnI)
-- Javascript: [Complete Playlist](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)
-- Command line: [Windows](https://youtu.be/QISdBQDEiJ8) \| [Linux & Mac](https://youtu.be/BGjTboXjH28)
-- Git and Github: [English](https://youtu.be/SWYqp7iY_Tc) \| [Hindi](https://youtu.be/iR5WIknxdkY)
+| S.No. | Topics         | Links                                                                                         |
+| ----- | -------------- | --------------------------------------------------------------------------------------------- |
+| 1     | HTML5          | [Crash Course](https://youtu.be/UB1O30fR-EE)                                                  |
+| 2     | CSS3           | [Crash Course](https://youtu.be/yfoY53QXEnI)                                                  |
+| 3     | Javascript     | [Complete Playlist](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ) |
+| 4     | Command line   | [Windows](https://youtu.be/QISdBQDEiJ8) \| [Linux & Mac](https://youtu.be/BGjTboXjH28)        |
+| 5     | Git and Github | [English](https://youtu.be/SWYqp7iY_Tc) \| [Hindi](https://youtu.be/iR5WIknxdkY)              |
 
 ---
 
