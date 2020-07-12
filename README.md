@@ -29,8 +29,8 @@
 - [HTML5](https://youtu.be/UB1O30fR-EE)
 - [CSS3](https://youtu.be/yfoY53QXEnI)
 - [Javascript](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ)
-- Basics of command line [[windows](https://youtu.be/QISdBQDEiJ8), [linux and mac](https://youtu.be/BGjTboXjH28)]
-- Knowledge of Git and Github [[english](https://youtu.be/SWYqp7iY_Tc) & [hindi](https://youtu.be/iR5WIknxdkY)]
+- Command line: [Windows](https://youtu.be/QISdBQDEiJ8) \| [Linux & Mac](https://youtu.be/BGjTboXjH28)
+- Git and Github: [English](https://youtu.be/SWYqp7iY_Tc) \| [Hindi](https://youtu.be/iR5WIknxdkY)
 
 ### ⚡ Learning Track
 
