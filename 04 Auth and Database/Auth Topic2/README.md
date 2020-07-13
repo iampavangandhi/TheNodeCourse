@@ -137,37 +137,7 @@ Now that all logged in clients have session information stored on their end as c
 - Get information about the user making the request
 Let’s write our <code>welcome</code> handler in <code>handlers.js</code> to do just that:
 
-```
-const welcome = (req, res) => {
-	// We can obtain the session token from the requests cookies, which come with every request
-	const token = req.cookies.token
-
-	// if the cookie is not set, return an unauthorized error
-	if (!token) {
-		return res.status(401).end()
-	}
-
-	var payload
-	try {
-		// Parse the JWT string and store the result in `payload`.
-		// Note that we are passing the key in this method as well. This method will throw an error
-		// if the token is invalid (if it has expired according to the expiry time we set on sign in),
-		// or if the signature does not match
-		payload = jwt.verify(token, jwtKey)
-	} catch (e) {
-		if (e instanceof jwt.JsonWebTokenError) {
-			// if the error thrown is because the JWT is unauthorized, return a 401 error
-			return res.status(401).end()
-		}
-		// otherwise, return a bad request error
-		return res.status(400).end()
-	}
-
-	// Finally, return the welcome message to the user, along with their
-	// username given in the token
-	res.send(`Welcome ${payload.username}!`)
-}
-```
+See handlers.js file in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/(Auth)%20Topic2/Code/jwt-nodejs-example)
 
 ### Renewing your token
 In this example, we have set a short expiry time of five minutes. We should not expect the user to login every five minutes if their token expires. To solve this, we will create another <code>/refresh</code> route that takes the previous token (which is still valid), and returns a new token with a renewed expiry time.
@@ -241,6 +211,6 @@ Hit the refresh route, and then inspect the clients cookies to see the new value
 POST http://localhost:8000/refresh
 ```
 
-📁For code look [here](https://github.com/vectorrb/TheNodeCourse/tree/master/04%20Auth%20and%20Database/(Auth)%20Topic2/Code/jwt-nodejs-example)
+📁For code look [here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/(Auth)%20Topic2/Code/jwt-nodejs-example)
 
 Few more links to understand this concept and its implementation: [link1](https://medium.com/better-programming/authentication-and-authorization-using-jwt-with-node-js-4099b2e6ca1f) & [link2](https://flaviocopes.com/jwt/)  
