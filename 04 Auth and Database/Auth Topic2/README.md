@@ -108,14 +108,14 @@ Now that all logged in clients have session information stored on their end as c
 - Get information about the user making the request
 Let’s write our <code>welcome</code> handler in <code>handlers.js</code> to do just that:
 
-See handlers.js file in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
+- 📁 See handlers.js file in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
 
 ### Renewing your token
 In this example, we have set a short expiry time of five minutes. We should not expect the user to login every five minutes if their token expires. To solve this, we will create another <code>/refresh</code> route that takes the previous token (which is still valid), and returns a new token with a renewed expiry time.
 
 To minimize misuse of a JWT, the expiry time is usually kept in the order of a few minutes. Typically the client application would refresh the token in the background.
 
-- See code in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
+- 📁 See code in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
 
 
 We’ll need to export the handlers at the end of the file:
@@ -146,6 +146,6 @@ Hit the refresh route, and then inspect the clients cookies to see the new value
 POST http://localhost:8000/refresh
 ```
 
-📁For code look [here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
+- 📁 For code look [here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
 
 Few more links to understand this concept and its implementation: [link1](https://medium.com/better-programming/authentication-and-authorization-using-jwt-with-node-js-4099b2e6ca1f) & [link2](https://flaviocopes.com/jwt/)  
