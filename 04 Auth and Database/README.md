@@ -7,7 +7,7 @@
 | 1    | Introduction and Advantages of JWT | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic1) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/Auth%20Topic1) |
 | 2    | Using JWT With Node.js             | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/Auth%20Topic2)  |
 | 3    | Intro to Passport Authentication   | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic3) \|  [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/Auth%20Topic3)  |
-| 4    | Passportjs Strategies              |
+| 4    | Passportjs Strategies              | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic4) \|  [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/Auth%20Topic4)  |
 | 5    | Login/Sign-up App using Passportjs |
 
 ## MongoDB Topics
