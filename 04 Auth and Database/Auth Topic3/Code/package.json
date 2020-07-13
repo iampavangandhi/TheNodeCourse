@@ -1,0 +1,27 @@
+{
+  "name": "passport-authentication-in-node.js",
+  "version": "0.1.0",
+  "main": "server",
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "boom": "^3.2.1",
+    "cookie-parser": "^1.4.2",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "mongoose": "^4.4.19",
+    "mongoose-user": "0.0.1",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pandeysoni"
+  },
+  "keywords": [
+    "mvc",
+    "boilerplate"
+  ]
+}
