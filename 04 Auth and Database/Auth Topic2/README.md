@@ -94,40 +94,11 @@ const users = {
 }
 ```
 So for now, there are only two valid users in our application: <code>user1</code>, and <code>user2</code>. Next, we can write the <code>signIn</code> HTTP handler in a new file <code>handlers.js</code>. For this example we are using the jsonwebtoken library to help us create and verify JWT tokens.
-```
-const jwt = require("jsonwebtoken")
 
-const jwtKey = "my_secret_key"
-const jwtExpirySeconds = 300
 
-const users = {
-	user1: "password1",
-	user2: "password2",
-}
+- See code in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
 
-const signIn = (req, res) => {
-	// Get credentials from JSON body
-	const { username, password } = req.body
-	if (!username || !password || users[username] !== password) {
-		// return 401 error is username or password doesn't exist, or if password does
-		// not match the password in our records
-		return res.status(401).end()
-	}
 
-	// Create a new token with the username in the payload
-	// and which expires 300 seconds after issue
-	const token = jwt.sign({ username }, jwtKey, {
-		algorithm: "HS256",
-		expiresIn: jwtExpirySeconds,
-	})
-	console.log("token:", token)
-
-	// set the cookie as the token string, with a similar max age as the token
-	// here, the max age is in milliseconds, so we multiply by 1000
-	res.cookie("token", token, { maxAge: jwtExpirySeconds * 1000 })
-	res.end()
-}
-```
 If a user logs in with the correct credentials, this handler will then set a cookie on the client side with the JWT value. Once a cookie is set on a client, it is sent along with every request henceforth. Now we can write our welcome handler to handle user specific information.
 
 ### Handling post authentication routes
@@ -137,52 +108,16 @@ Now that all logged in clients have session information stored on their end as c
 - Get information about the user making the request
 Let’s write our <code>welcome</code> handler in <code>handlers.js</code> to do just that:
 
-See handlers.js file in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/(Auth)%20Topic2/Code/jwt-nodejs-example)
+See handlers.js file in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
 
 ### Renewing your token
 In this example, we have set a short expiry time of five minutes. We should not expect the user to login every five minutes if their token expires. To solve this, we will create another <code>/refresh</code> route that takes the previous token (which is still valid), and returns a new token with a renewed expiry time.
 
 To minimize misuse of a JWT, the expiry time is usually kept in the order of a few minutes. Typically the client application would refresh the token in the background.
 
-```
-const refresh = (req, res) => {
-	// (BEGIN) The code uptil this point is the same as the first part of the `welcome` route
-	const token = req.cookies.token
+- See code in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
 
-	if (!token) {
-		return res.status(401).end()
-	}
 
-	var payload
-	try {
-		payload = jwt.verify(token, jwtKey)
-	} catch (e) {
-		if (e instanceof jwt.JsonWebTokenError) {
-			return res.status(401).end()
-		}
-		return res.status(400).end()
-	}
-	// (END) The code uptil this point is the same as the first part of the `welcome` route
-
-	// We ensure that a new token is not issued until enough time has elapsed
-	// In this case, a new token will only be issued if the old token is within
-	// 30 seconds of expiry. Otherwise, return a bad request status
-	const nowUnixSeconds = Math.round(Number(new Date()) / 1000)
-	if (payload.exp - nowUnixSeconds > 30) {
-		return res.status(400).end()
-	}
-
-	// Now, create a new token for the current user, with a renewed expiration time
-	const newToken = jwt.sign({ username: payload.username }, jwtKey, {
-		algorithm: "HS256",
-		expiresIn: jwtExpirySeconds,
-	})
-
-	// Set the new token as the users `token` cookie
-	res.cookie("token", newToken, { maxAge: jwtExpirySeconds * 1000 })
-	res.end()
-}
-```
 We’ll need to export the handlers at the end of the file:
 ```
 module.exports = {
@@ -211,6 +146,6 @@ Hit the refresh route, and then inspect the clients cookies to see the new value
 POST http://localhost:8000/refresh
 ```
 
-📁For code look [here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/(Auth)%20Topic2/Code/jwt-nodejs-example)
+📁For code look [here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic2/code/jwt-nodejs-example)
 
 Few more links to understand this concept and its implementation: [link1](https://medium.com/better-programming/authentication-and-authorization-using-jwt-with-node-js-4099b2e6ca1f) & [link2](https://flaviocopes.com/jwt/)  
