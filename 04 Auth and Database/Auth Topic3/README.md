@@ -4,13 +4,15 @@
 
 ## Resource: [link](http://www.passportjs.org/docs/authenticate/)
 
-### What is Passport.js?
+## What is Passport.js?
+
 - Passport.js is a simple, unobtrusive Node.js authentication middleware for Node.js.
 - Passport.js can be dropped into any Express.js-based web application.
 - Passport.js is an authentication middleware for Node.js
 - Passport is an authentication middleware for Node.js which we are going to use for session management.
 
 ### Let's Start
+
 Here, we will create application which will do following things only:
 - Register new user.
 - One email address (username) can be registered only once.
@@ -18,6 +20,7 @@ Here, we will create application which will do following things only:
 - Logout user (Expire Session Cookies).
 
 **Project Structure will be like this:**
+
 ```
 + server
  + user(there can be multilple other modules like user)
@@ -35,13 +38,12 @@ Here, we will create application which will do following things only:
 
 **1. Setting up Server using Express Framework.**
 
-- 📁 See code in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic3/Code)
-
+📁 You can see code in Code Folder. **Here's the [link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic3/Code)**
 
 First of all, we required all the module dependencies. After that we used middleware instances body-parser, cookie-parser and express-session. We used Mongodb to store database. You can see we loaded db file, so our connection will established, when we will start our server.
 
-
 **2. Setting up Database connection using Mongoose.**
+
 ```
 const Mongoose = require('mongoose');
 const config = require('./config');
@@ -55,6 +57,7 @@ exports.db = db;
 ```
 
 **3. Setting up Passport**
+
 ```
 /*!
  * Module dependencies.
@@ -84,8 +87,7 @@ module.exports = function (passport) {
 - In deserialize function you provide in first argument of deserialize function that same key of user object that was given to done function in serialize call. So your whole object is retrieved with help of that key. That key here is id(key can be any key of the user object ie name,email etc). In deserialize function that key is matched with in database or any data resource. <br />
 The fetched object is attached to request object as req.user. We used passport-local for local authentication using email(username) and password.
 
-- 📁 See code in [Code Folder](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic3/Code)
-
+📁 You can see code in Code Folder. **Here's the [link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic3/Code)**
 
 Once the load returns with our user object the only thing left is to compare the Unknown User and password to see if there is a match. If it is a match, we let the user in (by returning the user to passport — return done(null, user)), if not we return an unauthorized error (by returning nothing to passport — return done(null, false, {message: ”})). How route endpoint to use passport authentication.
 
@@ -93,4 +95,4 @@ Once the load returns with our user object the only thing left is to compare the
 app.post('/login', passport.authenticate('local', {}), User.login);
 ```
 
-- 📁 See complete code in [here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic3/Code)
+### 📁 You can see code in Code Folder. **Here's the [link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Auth%20Topic3/Code)**

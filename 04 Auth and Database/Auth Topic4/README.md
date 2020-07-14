@@ -91,16 +91,16 @@ There is a **Strategy Search** at [passportjs.org](http://passportjs.org)
 
 The following table lists commonly used strategies:
 
-|Strategy                                                       | Protocol                 |Developer                                       |
-|---------------------------------------------------------------|--------------------------|------------------------------------------------|
-|[Local](https://github.com/jaredhanson/passport-local)         | HTML form                |[Jared Hanson](https://github.com/jaredhanson)  |
-|[OpenID](https://github.com/jaredhanson/passport-openid)       | OpenID                   |[Jared Hanson](https://github.com/jaredhanson)  |
-|[BrowserID](https://github.com/jaredhanson/passport-browserid) | BrowserID                |[Jared Hanson](https://github.com/jaredhanson)  |
-|[Facebook](https://github.com/jaredhanson/passport-facebook)   | OAuth 2.0                |[Jared Hanson](https://github.com/jaredhanson)  |
-|[Google](https://github.com/jaredhanson/passport-google)       | OpenID                   |[Jared Hanson](https://github.com/jaredhanson)  |
-|[Google](https://github.com/jaredhanson/passport-google-oauth) | OAuth / OAuth 2.0        |[Jared Hanson](https://github.com/jaredhanson)  |
-|[Twitter](https://github.com/jaredhanson/passport-twitter)     | OAuth                    |[Jared Hanson](https://github.com/jaredhanson)  |
-|[Azure Active Directory](https://github.com/AzureAD/passport-azure-ad)     | OAuth 2.0 / OpenID / SAML  |[Azure](https://github.com/azuread)  |
+| Strategy                                                               | Protocol                  | Developer                                      |
+| ---------------------------------------------------------------------- | ------------------------- | ---------------------------------------------- |
+| [Local](https://github.com/jaredhanson/passport-local)                 | HTML form                 | [Jared Hanson](https://github.com/jaredhanson) |
+| [OpenID](https://github.com/jaredhanson/passport-openid)               | OpenID                    | [Jared Hanson](https://github.com/jaredhanson) |
+| [BrowserID](https://github.com/jaredhanson/passport-browserid)         | BrowserID                 | [Jared Hanson](https://github.com/jaredhanson) |
+| [Facebook](https://github.com/jaredhanson/passport-facebook)           | OAuth 2.0                 | [Jared Hanson](https://github.com/jaredhanson) |
+| [Google](https://github.com/jaredhanson/passport-google)               | OpenID                    | [Jared Hanson](https://github.com/jaredhanson) |
+| [Google](https://github.com/jaredhanson/passport-google-oauth)         | OAuth / OAuth 2.0         | [Jared Hanson](https://github.com/jaredhanson) |
+| [Twitter](https://github.com/jaredhanson/passport-twitter)             | OAuth                     | [Jared Hanson](https://github.com/jaredhanson) |
+| [Azure Active Directory](https://github.com/AzureAD/passport-azure-ad) | OAuth 2.0 / OpenID / SAML | [Azure](https://github.com/azuread)            |
 
 ## Examples
 
