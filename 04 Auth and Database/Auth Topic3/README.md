@@ -114,7 +114,9 @@ module.exports = new LocalStrategy({
   }
 );
 ```
+
 Once the load returns with our user object the only thing left is to compare the Unknown User and password to see if there is a match. If it is a match, we let the user in (by returning the user to passport — return done(null, user)), if not we return an unauthorized error (by returning nothing to passport — return done(null, false, {message: ”})). How route endpoint to use passport authentication.
+
 ```
 app.post('/login', passport.authenticate('local', {}), User.login);
 ```
