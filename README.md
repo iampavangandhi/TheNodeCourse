@@ -18,12 +18,6 @@
 
 ## ⚡ Topics Covered
 
-<img height="22" width="22" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />
-<img height="22" width="22" src="https://unpkg.com/simple-icons@v3/icons/node-dot-js.svg" />
-<img height="22" width="22" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />
-<img height="22" width="22" src="https://unpkg.com/simple-icons@v3/icons/postman.svg" />
-<img height="22" width="22" src="https://unpkg.com/simple-icons@v3/icons/heroku.svg" />
-
 - [x] Javascript Advance
 - [x] Nodejs and NPM
 - [x] Expressjs
