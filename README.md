@@ -22,8 +22,8 @@
 - [x] Nodejs and NPM
 - [x] Expressjs
 - [x] Passport Authentication
-- [x] MongoDB
-- [x] Postman Testing
+- [x] MongoDB Database
+- [x] Postman API Testing
 - [x] Testing and Heroku Deployment
 
 ## ⚡ Prerequisites with Resources.

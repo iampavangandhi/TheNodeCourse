@@ -10,13 +10,13 @@
 
 ### ⚡ Topics Covered
 
-- Javascript Advance
-- Nodejs and NPM
-- Expressjs
-- Passport Authentication
-- MongoDB
-- Postman Testing
-- Testing and Heroku Deployment
+- [x] Javascript Advance
+- [x] Nodejs and NPM
+- [x] Expressjs
+- [x] Passport Authentication
+- [x] MongoDB Database
+- [x] Postman API Testing
+- [x] Testing and Heroku Deployment
 
 ---
 
