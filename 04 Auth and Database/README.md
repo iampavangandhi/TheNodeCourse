@@ -22,10 +22,10 @@
 
 ## Other Topics
 
-| S.No | Topics                |
-| ---- | --------------------- |
-| 1    | Sessions and Cookies  |
-| 2    | Error Handling        |
-| 3    | Testing and Debugging |
+| S.No | Topics                | Links |
+| ---- | --------------------- | ----- |
+| 1    | Sessions and Cookies  | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Other%20Topic1) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/Other%20Topic1/) |
+| 2    | Error Handling        | Soon |
+| 3    | Testing and Debugging | Soon |
 
 ### End of the Week Assignment [Soon]()
