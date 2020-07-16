@@ -23,7 +23,8 @@ Sessions are a simple way to store data for individuals on server side.There are
 
 Second is the recommended way to implement sessions.
 
-### Cookies-parser 
+
+
 **Cookies-parser** is npm module which is used to parse the cookie header and populate req.cookies with an object keyed by cookie names.<br />
 **Express-session** is also an npm module using which we can control how sessions are stored,how sessionID are generated,where sessions are stored(by default Memory Store),for how long cookies should be stored before they are flushed and many more.<br />
 
