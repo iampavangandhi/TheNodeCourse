@@ -1,6 +1,6 @@
 # MongoDB Setup using Mongoose
 
-## Resourse: [link](https://mongoosejs.com/docs/connections.html)
+## Resource: [link](https://mongoosejs.com/docs/connections.html)
 
 ## Youtube Resource: [link]()
 
