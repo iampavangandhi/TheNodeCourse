@@ -14,8 +14,8 @@
 
 | S.No | Topics                                             | Links |
 | ---- | -------------------------------------------------- | ----- |
-| 1    | MongoDB Introduction and Installation              | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/DB%20Topic1)  \|[Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/DB%20Topic1/)  |
-| 2    | MongoDB Setup using Mongoose                       | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/DB%20Topic2)  \|[Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/DB%20Topic2/)  |
+| 1    | MongoDB Introduction and Installation              | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/DB%20Topic1)  \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/DB%20Topic1/)  |
+| 2    | MongoDB Setup using Mongoose                       | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/DB%20Topic2)  \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/DB%20Topic2/)  |
 | 3    | Database Creation (Schema Design) and Insertion    | Soon  |
 | 4    | Database Queries (Find, Sort, Delete, Update, etc) | Soon  |
 | 5    | MongoDB Limit and Join Keywords                    | Soon  |
