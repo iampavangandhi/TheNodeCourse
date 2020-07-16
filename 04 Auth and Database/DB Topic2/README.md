@@ -2,7 +2,7 @@
 
 ## Resourse: [link](https://mongoosejs.com/docs/connections.html)
 
-## Youtube Resourse: [link]()
+## Youtube Resource: [link]()
 
 ### Setup
 To connect MongoDB to your Express application, we will use an ORM to convert information from the database to a JavaScript application without SQL statements. ORM is short for Object Related Mapping, a technique that programmers use to convert data among incompatible types.
