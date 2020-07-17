@@ -12,14 +12,14 @@ NoSQL databases are different than relational databases like MQSql. In relationa
 
 One of the advantage of NoSQL database is that they are really easy to scale and they are much faster in most types of operations that we perform on database. There are certain situations where you would prefer relational database over NoSQL, however when you are dealing with huge amount of data then NoSQL database is your best choice.
 
-#### What are the advantages of NoSQL
+### What are the advantages of NoSQL
 
 The main advantages are high scalability and high availability.
 
 - High scalability
 - High Availability
 
-#### When to go for NoSQL
+### When to go for NoSQL
 
 When you would want to choose NoSQL over relational database:
 
