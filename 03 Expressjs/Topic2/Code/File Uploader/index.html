@@ -1,21 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>File Uploading Form</title>
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>File Uploading Form</title>
-</head>
+  <body>
+    <h3>File Upload:</h3>
+    Select a file to upload: <br />
 
-<body>
-  <h3>File Upload:</h3>
-  Select a file to upload: <br />
-
-  <form method="POST" enctype="multipart/form-data" action="/">
-    <input type="file" name="filename" size="50"><br />
-    <input type="submit" name="upload">
-  </form>
-
-</body>
-
+    <form action="/" method="POST" enctype="multipart/form-data">
+      <input type="file" name="filename" size="50" />
+      <br />
+      <input type="submit" value="Upload File" />
+    </form>
+  </body>
 </html>

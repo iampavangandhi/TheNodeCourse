@@ -59,7 +59,7 @@ node server.js
 You will see following output -
 
 ```javascript
-Example app listening at "http://localhost:8081/"
+Listening at "http://localhost:8081/"
 ```
 
 ## Cookies Management
