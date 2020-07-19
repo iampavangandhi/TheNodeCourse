@@ -4,7 +4,7 @@ var express = require("express");
 var app = express();
 var upload = require("express-fileupload");
 
-//middlewares
+// Middlewares
 app.use(upload());
 
 // GET Route
@@ -15,9 +15,9 @@ app.get("/", (req, res) => {
 // POST Route
 app.post("/", function (req, res) {
   if (req.files) {
-    var file = req.files.filename,
+    var file = req.files.myfile,
       filename = file.name;
-    file.mv("./public/upload" + filename, function (err) {
+    file.mv("./public/" + filename, function (err) {
       if (err) {
         console.log(err);
         res.send("Error Occurred");
