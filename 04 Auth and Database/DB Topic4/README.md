@@ -97,5 +97,26 @@ Reset the chips for the id "5797137d0856a7c41299e099"
 userModel.findByIdAndRemove("5797137d0856a7c41299e099",
 {chips:0},function(err,data){if(!err) console.log(data);});
 ```
+### Sort
+To sort documents in MongoDB, you need to use sort() method. The method accepts a document containing a list of fields along with their sorting order. To specify sorting order 1 and -1 are used. 1 is used for ascending order while -1 is used for descending order.
 
+Syntax: <code>db.COLLECTION_NAME.find().sort({KEY:1})</code>
+
+Example
+Consider the collection myycol has the following data.
+```
+{_id : ObjectId("507f191e810c19729de860e1"), title: "MongoDB Overview"}
+{_id : ObjectId("507f191e810c19729de860e2"), title: "NoSQL Overview"}
+{_id : ObjectId("507f191e810c19729de860e3"), title: "Syllabus"}
+```
+
+Following example will display the documents sorted by title in the descending order.
+```
+>db.mycol.find({},{"title":1,_id:0}).sort({"title":-1})
+{"title":"Syllabus"}
+{"title":"NoSQL Overview"}
+{"title":"MongoDB Overview"}
+>
+```
+Please note, if you don't specify the sorting preference, then sort() method will display the documents in ascending order.
 
