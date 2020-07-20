@@ -26,7 +26,7 @@
 | ---- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1    | Sessions and Cookies        | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Other%20Topic1) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/Other%20Topic1/) |
 | 2    | Socket.io                   | Soon                                                                                                                                                                                                              |
-| 3    | Validation and Sanatization | Soon                                                                                                                                                                                                              |
+| 3    | Validation and Sanitization | Soon                                                                                                                                                                                                              |
 | 4    | Error Handling              | Soon                                                                                                                                                                                                              |
 | 5    | Testing and Debugging       | Soon                                                                                                                                                                                                              |
 
