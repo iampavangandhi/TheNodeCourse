@@ -4,7 +4,7 @@
 
 ### Name: Piyush Gupta
 
-### Github-link: https://github.com/piyush-gupta092
+### Github-link: [Link](https://github.com/piyush-gupta092)
 
 ### Skills: C | C++ | HTML | Javascript
 

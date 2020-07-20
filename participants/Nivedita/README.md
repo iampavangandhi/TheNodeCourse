@@ -2,7 +2,7 @@
 
 - **Username: nivedita0604**
 - **Name: Nivedita**
-- **Github Link: https://github.com/nivedita0604**
+- **Github Link: [Link](https://github.com/nivedita0604)**
 - **Skills: C++ \| HTML \| CSS \| JS \| VUE.js**
 
 ## Introduction

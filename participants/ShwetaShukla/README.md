@@ -2,7 +2,7 @@
 
 - **Username: Shweta0002**
 - **Name: Shweta Shukla**
-- **Github Link: https://github.com/Shweta0002**
+- **Github Link: [Link](https://github.com/Shweta0002)**
 - **Skills: C \| C++ \| Python \| Java \| Machine learning \| Deep Learning \| HTML \| CSS \| JS**
 
 ## Introduction

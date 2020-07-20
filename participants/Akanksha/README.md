@@ -2,7 +2,7 @@
 
 - **Username: Akankshabhasin**
 - **Name: Akanksha**
-- **Github Link: https://github.com/akankshabhasin**
+- **Github Link: [Link](https://github.com/akankshabhasin)**
 - **Skills: C++ \| HTML \| CSS \| JS \| Actions on Google**
 
 ## Introduction
