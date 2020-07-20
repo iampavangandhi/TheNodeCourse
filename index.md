@@ -6,6 +6,8 @@
 
 ### **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)** is a Stock Simulation WebApp that we will build as our Main Project.
 
+- ### (17/07/2020) First Progress Report of TheNodeCourse: [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Progress%20Report.pdf)
+
 ---
 
 ### ⚡ Topics Covered
@@ -40,7 +42,7 @@
 | 2          | Intro to Web Dev and Begin with Nodejs    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Web%20Dev%20and%20Nodejs) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Web%20Dev%20and%20Nodejs/) |
 | 3          | Expressjs with middlewares and templating | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/)                               |
 | 4          | Passport JWT Authentication and MongoDB   | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/)       |
-| 5          | **Storybooks** (CRUD App)                 | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/05%20Storybooks) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/05%20Storybooks/)                             |
+| 5          | **Storybooks** (CRUD App)                 | [**Repo Link**](https://github.com/iampavangandhi/Storybooks)                                                                                                                             |
 | 6 till end | **TradeByte** (Main Project)              |                                                                                                                                                                                           |
 
 ---
