@@ -18,6 +18,8 @@ Node inspector is a powerful JavaScript debugger for NodeJS applciations that us
 - CPU and HEAP profiling
 - Network client requests inspection
 - Console output inspection
+
+
 To install node inspector type <br />
 <code>$ npm install –g node-inspector.</code>
 
