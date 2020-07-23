@@ -1,10 +1,13 @@
 # Debugging and Testing
 
-## Resource: [link](https://nodejs.org/api/debugger.html)
+### Resource: [link](https://nodejs.org/api/debugger.html)
+
 ### Console.log:
+
 One of the most common form of debugging is the use of console.log statement. If you are not good at debugging you can use this console.log statement in your application to find low potential errors. It just simply prints on the screen. Nothing is like setting breakpoints or typical debugger stuff. It will console the message on your browser if you write it in the client’s side code. For the server side it will console the message on the editor.
 
 ### Debugging with Node inspector:
+
 Node inspector is a powerful JavaScript debugger for NodeJS applciations that uses the blink developer tools. It has many advanced features.
 - Navigate in your source files
 - Set breakpoints (and specify trigger conditions)
@@ -19,13 +22,17 @@ Node inspector is a powerful JavaScript debugger for NodeJS applciations that us
 - Network client requests inspection
 - Console output inspection
 
+To install node inspector type
 
-To install node inspector type <br />
-<code>$ npm install –g node-inspector.</code>
+```sh
+npm install –g node-inspector
+```
 
+To start debugging type the following command:
 
-To start debugging type the following command<br />
-<code>$ node-debug app.js</code>
+```sh
+node-debug app.js
+```
 
 ### Here are some articles, do read them:
 
