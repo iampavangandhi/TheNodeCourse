@@ -1,8 +1,8 @@
 # CONTRIBUTING
 
-### This repo is created to help others to start their journey with Javascript, Nodejs, and Server-side Web Development. It's open for all to use for learning as well as contributing under GPL-3.0 license.
+This repo is created to help others to start their journey with Javascript, Nodejs, and Server-side Web Development. It's open for all to use for learning as well as contributing under GPL-3.0 license.
 
-### Please write a proper description while making pull requests.
+Kindly write a proper description while making pull requests.
 
 ## Ways of Contributing
 
