@@ -67,7 +67,7 @@ See the [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/m
 
 ## ⚡ License
 
-[MIT](LICENSE) © Pavan Gandhi
+[GPL-3.0](LICENSE) © Pavan Gandhi
 
 ---
 
