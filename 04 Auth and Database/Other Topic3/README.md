@@ -1,6 +1,7 @@
 # Validation and Sanitization
 
-## Resource: [link](https://express-validator.github.io/docs/sanitization.html)
+### Resource: [link](https://express-validator.github.io/docs/sanitization.html)
+
 Sometimes, receiving input in a HTTP request isn't only about making sure that the data is in the right format, but also that it is free of noise.<br />
 So here we will get to know some sanitizers that can be used to take care of the data that comes in.
 
