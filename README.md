@@ -46,7 +46,7 @@
 | 2    | Web Dev and Nodejs           | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/02%20Web%20Dev%20and%20Nodejs) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/02%20Web%20Dev%20and%20Nodejs/) |
 | 3    | Expressjs                    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/)                               |
 | 4    | Auth and Database            | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/)       |
-| 5    | **Storybooks** (CRUD App)    | [![link](https://img.shields.io/badge/STORYBOOKS-2648ff?style=flat-square&logo=github)](https://github.com/iampavangandhi/Storybooks)                                                     |
+| 5    | **Storybooks** (CRUD App)    | [![link](https://img.shields.io/badge/STORYBOOKS-2648ff?style=for-the-badge&logo=github)](https://github.com/iampavangandhi/Storybooks)                                                   |
 | X    | **TradeByte** (Main Project) | **Soon...**                                                                                                                                                                               |
 
 ## ⚡ Resources and Other Sections
