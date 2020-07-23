@@ -28,7 +28,7 @@
 - [x] Postman API Testing
 - [x] Testing and Heroku Deployment
 
-## ⚡ Prerequisites with Resources.
+## ⚡ Prerequisites with Resources
 
 | S.No. | Topics         | Links                                                                                         |
 | ----- | -------------- | --------------------------------------------------------------------------------------------- |
