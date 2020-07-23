@@ -8,8 +8,10 @@ So here we will get to know some sanitizers that can be used to take care of the
 The <code>express-validator</code> package is use to validate input can also conveniently used to perform sanitization.
 
 ### Let's begin
+
 Say you have a POST endpoint that accepts the name, email and age parameters:
-```
+
+```javascript
 const express = require('express')
 const app = express()
 
@@ -21,8 +23,10 @@ app.post('/form', (req, res) => {
   const age   = req.body.age
 })
 ```
+
 You might validate it using:
-```
+
+```javascript
 const express = require('express')
 const app = express()
 
@@ -38,8 +42,10 @@ app.post('/form', [
   const age   = req.body.age
 })
 ```
+
 You can add sanitization by piping the sanitization methods after the validation ones:
-```
+
+```javascript
 app.post('/form', [
   check('name').isLength({ min: 3 }).trim().escape(),
   check('email').isEmail().normalizeEmail(),
@@ -48,10 +54,11 @@ app.post('/form', [
   //...
 })
 ```
+
 Here are the methods used above:
 
 - **trim()**  trims characters (whitespace by default) at the beginning and at the end of a string
-- **escape() ** replaces <, >, &, ', " and / with their corresponding HTML entities
+- **escape()** replaces <, >, &, ', " and / with their corresponding HTML entities
 - **normalizeEmail()** canonicalizes an email address. Accepts several options to lowercase email addresses or subaddresses (e.g. flavio+newsletters@gmail.com)
 
 ### Other sanitization methods:
@@ -63,7 +70,6 @@ Here are the methods used above:
 - **rtrim()** like trim(), but only trims characters at the end of the string
 - **stripLow()** remove ASCII control characters, which are normally invisible
 
-
 ### Force conversion to a format:
 
 - **toBoolean()** convert the input string to a boolean. Everything except for ‘0’, ‘false’ and “ returns true. In strict mode only ‘1’ and ‘true’ return true
@@ -72,9 +78,9 @@ Here are the methods used above:
 - **toInt()** convert the input string to an integer, or NaN if the input is not an integer
 Like with custom validators, you can create a custom sanitizer.
 
-
 In the callback function you just return the sanitized value:
-```
+
+```javascript
 const sanitizeValue = value => {
   //sanitize...
 }
