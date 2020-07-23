@@ -6,15 +6,15 @@
 
 ![License](https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square) ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Contributors](https://img.shields.io/github/contributors/iampavangandhi/TheNodeCourse?color=%2308da90&label=Contributors&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
 
-![logo](logo.png)
+![logo](assets/logo.png)
 
 </div>
 
-### TheNodeCourse is designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week Course including a CRUD App [Storybooks](https://github.com/iampavangandhi/Storybooks) after which we will move to the main project **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)**.
+### TheNodeCourse is designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week Course including a CRUD App [Storybooks](https://github.com/iampavangandhi/Storybooks) after which we will move to the main project **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/assets/Tradebyte.pdf)**.
 
-### **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)** is a Stock Simulation WebApp that we will build as our Main Project.
+### **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/assets/Tradebyte.pdf)** is a Stock Simulation WebApp that we will build as our Main Project.
 
-- ### (15/07/2020) First Progress Report of TheNodeCourse: [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Progress%20Report.pdf)
+- ### (15/07/2020) First Progress Report of TheNodeCourse: [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/assets/Progress%20Report.pdf)
 
 ---
 
@@ -54,7 +54,7 @@
 | S.No. | Sections          | Links                                                                                                                                                   |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1     | Resources Page    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/resources) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/resources/)       |
-| 2     | Tradebyte Plan    | [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/Tradebyte.pdf)                                                                       |
+| 2     | Tradebyte Plan    | [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/assets/Tradebyte.pdf)                                                                |
 | 3     | Participants Page | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/participants) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/participants/) |
 | 4     | VS Code Settings  | [Link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)                                                                         |
 | 5     | Assignments Page  | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/assignments) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/assignments/)   |
