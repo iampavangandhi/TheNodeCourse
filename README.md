@@ -59,7 +59,15 @@
 | 4     | VS Code Settings  | [Link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)                                                                         |
 | 5     | Assignments Page  | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/assignments) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/assignments/)   |
 
-### ⚡ This repo is open for contributions see [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
+## ⚡ Contributing
+
+Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/TheNodeCourse/issues/new) or submit PRs.
+
+See the [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
+
+## ⚡ License
+
+[MIT](LICENSE) © Pavan Gandhi
 
 ---
 

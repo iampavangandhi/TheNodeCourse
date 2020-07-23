@@ -59,6 +59,14 @@
 
 ---
 
-### ⚡ This repo is open for contributions see [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
+### ⚡ Contributing
+
+Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/TheNodeCourse/issues/new) or submit PRs.
+
+See the [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
+
+### ⚡ License
+
+[MIT](LICENSE) © Pavan Gandhi
 
 ### ⚡ Show some ❤️ by starring 🌟 the repository!
