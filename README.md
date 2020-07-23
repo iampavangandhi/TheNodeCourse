@@ -27,8 +27,6 @@
 - [⚡ Contributing](#-contributing)
 - [⚡ License](#-license)
 
----
-
 ## ⚡ Topics Covered
 
 - [x] Javascript Advance
