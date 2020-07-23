@@ -12,12 +12,12 @@
 
 ### ⚡ Table of Contents
 
-- [⚡ Topics Covered](#-topics-covered)
-- [⚡ Prerequisites with Resources](#-prerequisites-with-resources)
-- [⚡ Learning Track](#-learning-track)
-- [⚡ Resources and Other Sections](#-resources-and-other-sections)
-- [⚡ Contributing](#-contributing)
-- [⚡ License](#-license)
+- [Topics Covered](#-topics-covered)
+- [Prerequisites with Resources](#-prerequisites-with-resources)
+- [Learning Track](#-learning-track)
+- [Resources and Other Sections](#-resources-and-other-sections)
+- [Contributing](#-contributing)
+- [License](#-license)
 
 ---
 
@@ -29,7 +29,7 @@
 - Passport Authentication
 - MongoDB Database
 - Postman API Testing
-- Testing and Heroku Deployment
+- Testing and Deployment
 
 ---
 

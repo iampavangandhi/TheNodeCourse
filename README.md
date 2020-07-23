@@ -35,7 +35,7 @@
 - [x] Passport Authentication
 - [x] MongoDB Database
 - [x] Postman API Testing
-- [x] Testing and Heroku Deployment
+- [x] Testing and Deployment
 
 ## ⚡ Prerequisites with Resources
 
