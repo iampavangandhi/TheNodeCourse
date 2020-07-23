@@ -17,6 +17,7 @@
 - [Learning Track](#-learning-track)
 - [Resources and Other Sections](#-resources-and-other-sections)
 - [Contributing](#-contributing)
+- [Contributors](#-contributors)
 - [License](#-license)
 
 ---
@@ -75,6 +76,16 @@
 Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/TheNodeCourse/issues/new) or submit PRs.
 
 See the [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
+
+---
+
+### ⚡ Contributors
+
+This project exists thanks to all the people who contribute.
+
+![](https://readme-contributors.now.sh/iampavangandhi/thenodecourse?extension=jpg&width=300&avatarSize=24)
+
+---
 
 ### ⚡ License
 
