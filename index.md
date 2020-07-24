@@ -26,9 +26,9 @@
 
 - [⚡ Table of Contents](#-table-of-contents)
 - [⚡ Topics Covered](#-topics-covered)
-- [⚡ Prerequisites with Resources](#-prerequisites-with-resources)
+- [⚡ Prerequisites](#-prerequisites)
 - [⚡ Learning Track](#-learning-track)
-- [⚡ Resources and Other Sections](#-resources-and-other-sections)
+- [⚡ Resources Section](#-resources-section)
 - [⚡ Contributing](#-contributing)
 - [⚡ Contributors](#-contributors)
 - [⚡ License](#-license)
@@ -43,7 +43,7 @@
 - Postman API Testing
 - Testing and Deployment
 
-## ⚡ Prerequisites with Resources
+## ⚡ Prerequisites
 
 | S.No. | Topics         | Links                                                                                         |
 | ----- | -------------- | --------------------------------------------------------------------------------------------- |
@@ -64,7 +64,7 @@
 | 5    | **Storybooks** (CRUD App)    | [![link](https://img.shields.io/badge/STORYBOOKS-2648ff?style=for-the-badge&logo=github)](https://github.com/iampavangandhi/Storybooks)                                                   |
 | X    | **TradeByte** (Main Project) | **Soon...**                                                                                                                                                                               |
 
-## ⚡ Resources and Other Sections
+## ⚡ Resources Section
 
 | S.No. | Sections          | Links                                                                                                                                                   |
 | ----- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
