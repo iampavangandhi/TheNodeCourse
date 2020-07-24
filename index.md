@@ -32,8 +32,6 @@
 - [Contributors](#-contributors)
 - [License](#-license)
 
----
-
 ### ⚡ Topics Covered
 
 - Javascript Advance
@@ -44,8 +42,6 @@
 - Postman API Testing
 - Testing and Deployment
 
----
-
 ### ⚡ Prerequisites with Resources
 
 | S.No. | Topics         | Links                                                                                         |
@@ -55,8 +51,6 @@
 | 3     | Javascript     | [Complete Playlist](https://www.youtube.com/playlist?list=PLDyQo7g0_nsX8_gZAB8KD1lL4j4halQBJ) |
 | 4     | Git and Github | [English(en)](https://youtu.be/SWYqp7iY_Tc) \| [Hindi(hi)](https://youtu.be/iR5WIknxdkY)      |
 | 5     | Command line   | [Windows](https://youtu.be/QISdBQDEiJ8) \| [Linux & Mac](https://youtu.be/BGjTboXjH28)        |
-
----
 
 ### ⚡ Learning Track
 
@@ -69,8 +63,6 @@
 | 5    | **Storybooks** (CRUD App)    | [![link](https://img.shields.io/badge/STORYBOOKS-2648ff?style=for-the-badge&logo=github)](https://github.com/iampavangandhi/Storybooks)                                                   |
 | X    | **TradeByte** (Main Project) | **Soon...**                                                                                                                                                                               |
 
----
-
 ### ⚡ Resources and Other Sections
 
 | S.No. | Sections          | Links                                                                                                                                                   |
@@ -81,23 +73,17 @@
 | 4     | VS Code Settings  | [Link](https://gist.github.com/iampavangandhi/039b1dc5a7cdcb007ab3691814d53130)                                                                         |
 | 5     | Assignments Page  | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/assignments) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/assignments/)   |
 
----
-
 ### ⚡ Contributing
 
 Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/TheNodeCourse/issues/new) or submit PRs.
 
 See the [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/master/CONTRIBUTING.md) for details.
 
----
-
 ### ⚡ Contributors
 
 This project exists thanks to all the people who contribute.
 
 [![Contributors](https://readme-contributors.now.sh/iampavangandhi/thenodecourse?extension=jpg&width=300&avatarSize=25)](https://github.com/iampavangandhi/TheNodeCourse/graphs/contributors)
-
----
 
 ### ⚡ License
 
