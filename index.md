@@ -2,6 +2,8 @@
 
 <h1>TheNodeCourse <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></h1>
 
+<h3>⚡ Repo Link: <a href="https://github.com/iampavangandhi/TheNodeCourse">https://github.com/iampavangandhi/TheNodeCourse</a><br /> 🔧 build using <a href="https://pages.github.com/">Github Pages</a></h3>
+
 <img alt="License" src="https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square">
 <img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square">
 <img alt="Forks" src="https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square">

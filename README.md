@@ -2,7 +2,7 @@
 
 # **TheNodeCourse** <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
-### ⚡ Website [https://iampavangandhi.github.io/TheNodeCourse/](https://iampavangandhi.github.io/TheNodeCourse/) <br /> 🔧 build using [Github Pages](https://pages.github.com/)
+### ⚡ Website: [https://iampavangandhi.github.io/TheNodeCourse/](https://iampavangandhi.github.io/TheNodeCourse/) <br /> 🔧 build using [Github Pages](https://pages.github.com/)
 
 ![License](https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square) ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Contributors](https://img.shields.io/github/contributors/iampavangandhi/TheNodeCourse?color=%2308da90&label=Contributors&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
 
