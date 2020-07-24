@@ -79,7 +79,7 @@ See the [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/m
 
 This project exists thanks to all the people who contribute.
 
-![](https://readme-contributors.now.sh/iampavangandhi/thenodecourse?extension=jpg&width=300&avatarSize=25)
+[![Contributors](https://readme-contributors.now.sh/iampavangandhi/thenodecourse?extension=jpg&width=300&avatarSize=25)](https://github.com/iampavangandhi/TheNodeCourse/graphs/contributors)
 
 ## ⚡ License
 

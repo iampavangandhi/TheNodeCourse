@@ -1,6 +1,10 @@
+<div align="center">
+
 # TheNodeCourse <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"> &nbsp; ![License](https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square) ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Contributors](https://img.shields.io/github/contributors/iampavangandhi/TheNodeCourse?color=%2308da90&label=Contributors&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
 
 ![logo](assets/logo.png)
+
+</div>
 
 ### TheNodeCourse is designed by [Pavan Gandhi(me)](https://github.com/iampavangandhi) and [Rutuja Bhole](https://github.com/vectorrb) for The Uplift Program by [Girlscript Foundation](https://www.girlscript.tech/home). Its a 5 Week Course including a CRUD App [Storybooks](https://github.com/iampavangandhi/Storybooks) after which we will move to the main project **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/assets/Tradebyte.pdf)**.
 
@@ -83,7 +87,7 @@ See the [CONTRIBUTING.md](https://github.com/iampavangandhi/TheNodeCourse/blob/m
 
 This project exists thanks to all the people who contribute.
 
-![](https://readme-contributors.now.sh/iampavangandhi/thenodecourse?extension=jpg&width=300&avatarSize=25)
+[![Contributors](https://readme-contributors.now.sh/iampavangandhi/thenodecourse?extension=jpg&width=300&avatarSize=25)](https://github.com/iampavangandhi/TheNodeCourse/graphs/contributors)
 
 ---
 
