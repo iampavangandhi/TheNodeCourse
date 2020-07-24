@@ -21,9 +21,9 @@
 ## ⚡ Table of Contents
 
 - [⚡ Topics Covered](#-topics-covered)
-- [⚡ Prerequisites with Resources](#-prerequisites-with-resources)
+- [⚡ Prerequisites](#-prerequisites)
 - [⚡ Learning Track](#-learning-track)
-- [⚡ Resources and Other Sections](#-resources-and-other-sections)
+- [⚡ Resources Section](#-resources-section)
 - [⚡ Contributing](#-contributing)
 - [⚡ Contributors](#-contributors)
 - [⚡ License](#-license)
