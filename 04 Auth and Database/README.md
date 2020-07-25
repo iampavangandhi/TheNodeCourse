@@ -1,4 +1,4 @@
-# 🔐 Authentication and Database (MongoDB)
+# 🔐 Authentication and Database
 
 ## Auth Topics
 
