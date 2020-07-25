@@ -1,4 +1,4 @@
-# TheNodeCourse
+# 🧑‍🎓 TheNodeCourse Participants
 
 ## Mentors
 

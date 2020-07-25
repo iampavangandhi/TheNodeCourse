@@ -1,4 +1,4 @@
-# Assignments
+# 💯 Assignments
 
 ## Self-Evaluation Based
 
