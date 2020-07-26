@@ -4,15 +4,14 @@ Note: This is a **Compulsory Assignment** and you guys will be marked based on t
 
 ## Task
 
-Lets add some feature in your last week's **Todo App**. Let's make a **Simple Login/Signup Database** Todo App
+Let's add some feature in your last week's **Todo App**. Let's make a **Simple Login/Signup Todo CRUD App with Database**
 
 ### Features
 
-- SignUp
-- Login
-- Logout
-You  can use javascript methods for any type of manipulation.
+- Login/Signup
+- Logout Option
+- Database Integration
 
-
+Use CSS for Styling the **Todo App**. You can use javascript methods for any type of manipulation.
 
 ### Solution: **[Soon]()**
