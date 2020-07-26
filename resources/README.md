@@ -19,6 +19,11 @@
 - ### 💡 Nodejs Interview Questions: [Link](https://github.com/learning-zone/nodejs-interview-questions)
 - ### 💡 Back End Developer Interview Questions: [Link](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions)
 
+## Interesting Stuff
+
+- ### 🔥 Devhints.io: [Link](https://devhints.io/)
+- ### 🔥 Modern JavaScript Cheatsheet: [Link](https://github.com/mbeaudru/modern-js-cheatsheet)
+
 ## Courses
 
 - ### 👨‍🎓 A list of web development courses (free and paid): [Link](https://github.com/lndgalante/courses-list)
