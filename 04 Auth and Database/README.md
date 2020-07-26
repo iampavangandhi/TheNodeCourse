@@ -30,4 +30,4 @@
 | 4    | Error Handling              | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Other%20Topic4) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/Other%20Topic4/) |
 | 5    | Testing and Debugging       | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Other%20Topic5) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/Other%20Topic5/) |
 
-### End of the Week Assignment [Soon](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Assignment)
+### End of the Week Assignment [Here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Assignment)
