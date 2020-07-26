@@ -4,7 +4,7 @@
 
 ### ⚡ Website: [https://iampavangandhi.github.io/TheNodeCourse/](https://iampavangandhi.github.io/TheNodeCourse/) <br /> 🔧 build using [Github Pages](https://pages.github.com/)
 
-![License](https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square) ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Contributors](https://img.shields.io/github/contributors/iampavangandhi/TheNodeCourse?color=%2308da90&label=Contributors&style=flat-square) ![Followeres](https://img.shields.io/github/followers/iampavangandhi?color=%2308da90&label=Followers&style=flat-square)
+![License](https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square) ![Build](https://img.shields.io/github/deployments/iampavangandhi/TheNodeCourse/github-pages?color=%2308da90&label=Build&style=flat-square) ![Stars](https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square) ![Forks](https://img.shields.io/github/forks/iampavangandhi/TheNodeCourse?color=%2308da90&label=Forks&style=flat-square) ![Contributors](https://img.shields.io/github/contributors/iampavangandhi/TheNodeCourse?color=%2308da90&label=Contributors&style=flat-square)
 
 ![logo](assets/logo.png)
 
