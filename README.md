@@ -14,7 +14,7 @@
 
 ### **[Tradebyte](https://github.com/iampavangandhi/TheNodeCourse/blob/master/assets/Tradebyte.pdf)** is a Stock Simulation WebApp that we will build as our Main Project.
 
-- ### (15/07/2020) First Progress Report of TheNodeCourse: [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/assets/Progress%20Report.pdf)
+> ### (15/07/2020) First Progress Report of TheNodeCourse: [Link](https://github.com/iampavangandhi/TheNodeCourse/blob/master/assets/Progress%20Report.pdf)
 
 ---
 
