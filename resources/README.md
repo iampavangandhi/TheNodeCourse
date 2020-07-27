@@ -27,5 +27,6 @@
 ## Courses
 
 - ### 👨‍🎓 A list of web development courses (free and paid): [Link](https://github.com/lndgalante/courses-list)
+- ### 👨‍🎓 Web Development In 2020 - A Practical Guide Course List: [Link](https://github.com/andrews1022/web-development-2020-course-list)
 
 ### More coming soon...
