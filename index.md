@@ -2,6 +2,8 @@
 
 <h1>TheNodeCourse <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></h1>
 
+<h2>The Complete Learning Path for Nodejs Development.</h2>
+
 <img alt="License" src="https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square">
 <img alt="Build" src="https://img.shields.io/github/deployments/iampavangandhi/TheNodeCourse/github-pages?color=%2308da90&label=Build&style=flat-square">
 <img alt="Stars" src="https://img.shields.io/github/stars/iampavangandhi/TheNodeCourse?color=%2308da90&label=Stars&style=flat-square">
