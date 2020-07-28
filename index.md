@@ -62,7 +62,7 @@
 | 3    | Expressjs                    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/03%20Expressjs/)                               |
 | 4    | Auth and Database            | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database) \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/)       |
 | 5    | **Storybooks** (CRUD App)    | [![link](https://img.shields.io/badge/STORYBOOKS-2648ff?style=for-the-badge&logo=github)](https://github.com/iampavangandhi/Storybooks)                                                   |
-| X    | **TradeByte** (Main Project) | **Soon...**                                                                                                                                                                               |
+| X    | **TradeByte** (Main Project) | [![link](https://img.shields.io/badge/TRADEBYTE-23c58c?style=for-the-badge&logo=github)](https://github.com/iampavangandhi/TradeByte)                                                     |
 
 ## ⚡ Resources Section
 
