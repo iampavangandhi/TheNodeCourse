@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>TheNodeCourse <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></h1>
+<h1><strong>TheNodeCourse</strong> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></h1>
 
 <img alt="License" src="https://img.shields.io/github/license/iampavangandhi/TheNodeCourse?color=%2308da90&label=License&style=flat-square">
 <img alt="Build" src="https://img.shields.io/github/deployments/iampavangandhi/TheNodeCourse/github-pages?color=%2308da90&label=Build&style=flat-square">
