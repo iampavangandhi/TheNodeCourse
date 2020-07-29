@@ -20,7 +20,7 @@
 | 4    | Database Queries (Find, Sort, Delete, Update, etc) | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/DB%20Topic4)  \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/DB%20Topic4/) |
 | 5    | MongoDB Limit and Join Keywords                    | [Repo](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/DB%20Topic5)  \| [Web](https://iampavangandhi.github.io/TheNodeCourse/04%20Auth%20and%20Database/DB%20Topic5/) |
 
-## Other Misc. Topics
+## Other Topics (Optional)
 
 | S.No | Topics                      | Links                                                                                                                                                                                                             |
 | ---- | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
