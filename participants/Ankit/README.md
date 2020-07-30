@@ -23,10 +23,27 @@ and Fortnite is my Second place where i spend later time.
 
 ## Social Links ()
 
-Fortnite - Venomxd32
+Fortnite - *Venomxd32*
 
 1. [Linkedin](https://www.linkedin.com/in/ankit-p-632a72109/)
 2. [Github](https://github.com/howdyAnkit)
 3. [Twitter](https://twitter.com/howdy_ankit)
 
-### here to Learn and grow with the community and also to explore.
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [ ] Week 1 Javascript Advance
+- [ ] Week 2 Web Dev and Nodejs
+- [ ] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [ ] Week 5 Storybooks
+
+### TradeByte Check
+
+- [ ] I am ready for contribution in TradeByte
+
+## Here to Learn and grow with the community and also to explore.

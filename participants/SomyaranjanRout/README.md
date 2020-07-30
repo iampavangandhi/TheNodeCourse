@@ -42,4 +42,21 @@ I love😍 to play football ⚽️and watch👀 Sci-fi Moives and Series.
 - [Instagram](https://instagram.com/iampavangandhi)
 - [Facebook](https://www.facebook.com/somyaranjancr7)
 
-### ✅ I agree to give my best and work with full dedication 💯
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [ ] Week 1 Javascript Advance
+- [ ] Week 2 Web Dev and Nodejs
+- [ ] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [ ] Week 5 Storybooks
+
+### TradeByte Check
+
+- [ ] I am ready for contribution in TradeByte
+
+## ✅ I agree to give my best and work with full dedication 💯

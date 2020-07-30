@@ -18,4 +18,21 @@ I am a big fan of k-drama, C-drama ,animes and can watch them whole day.
 - [LinkedIn](https://www.linkedin.com/in/nivedita-4a5648156/)
 - [Instagram](https://www.instagram.com/nivedita0604/)
 
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [ ] Week 1 Javascript Advance
+- [ ] Week 2 Web Dev and Nodejs
+- [ ] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [ ] Week 5 Storybooks
+
+### TradeByte Check
+
+- [ ] I am ready for contribution in TradeByte
+
 ## Ready to give my 💯 with full dedication.

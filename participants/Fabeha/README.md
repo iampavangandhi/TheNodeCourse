@@ -36,4 +36,21 @@ I like to read books (mostly rom-coms and cliches 🙈). I also love to interact
 - [LinkedIn](https://linkedin.com/in/fabcodingzest)
 - [Instagram](https://instagram.com/fabcodingzest) - (I am mostly active here)
 
-### I am here to learn and grow as a developer with some awesome people 💯
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [ ] Week 1 Javascript Advance
+- [ ] Week 2 Web Dev and Nodejs
+- [ ] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [ ] Week 5 Storybooks
+
+### TradeByte Check
+
+- [ ] I am ready for contribution in TradeByte
+
+## I am here to learn and grow as a developer with some awesome people 💯
