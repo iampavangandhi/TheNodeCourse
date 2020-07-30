@@ -34,4 +34,4 @@ I am currently learning full-stack web development and am currently focusing on 
 
 - [x] I am ready for contribution in TradeByte
 
-## I will duly invest my time on this project.
+## I will duly invest my 💯 time on this project.
