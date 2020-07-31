@@ -25,11 +25,11 @@ I love dancing and photography.
 
 ### My Progress
 
-- [ ] Week 1 Javascript Advance
-- [ ] Week 2 Web Dev and Nodejs
+- [x] Week 1 Javascript Advance
+- [x] Week 2 Web Dev and Nodejs
 - [ ] Week 3 Expressjs
 - [ ] Week 4 Auth and Database
-- [ ] Week 5 Storybooks
+- [x] Week 5 Storybooks
 
 ### TradeByte Check
 
