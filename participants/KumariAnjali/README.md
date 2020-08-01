@@ -21,14 +21,14 @@ Iam currently learning frontend developement and working on improving my data st
 
 ### My Progress
 
-- [ ] Week 1 Javascript Advance
-- [ ] Week 2 Web Dev and Nodejs
-- [ ] Week 3 Expressjs
-- [ ] Week 4 Auth and Database
-- [ ] Week 5 Storybooks
+- [x] Week 1 Javascript Advance
+- [x] Week 2 Web Dev and Nodejs
+- [x] Week 3 Expressjs
+- [x] Week 4 Auth and Database
+- [x] Week 5 Storybooks
 
 ### TradeByte Check
 
-- [ ] I am ready for contribution in TradeByte
+- [x] I am ready for contribution in TradeByte
 
 ## I am ready to give my 💯
