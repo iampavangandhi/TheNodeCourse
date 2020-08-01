@@ -2,7 +2,7 @@
 
 - **Username: Shweta0002**
 - **Name: Shweta Shukla**
-- **Github Link: https://github.com/Shweta0002**
+- **Github Link: [Link](https://github.com/Shweta0002)**
 - **Skills: C \| C++ \| Python \| Java \| Machine learning \| Deep Learning \| HTML \| CSS \| JS**
 
 ## Introduction
@@ -12,5 +12,22 @@ Hello , I am Shweta Shukla, a prefinal year Btech CSE student at ABES Institute 
 ## Social Link:
 
 - [LinkedIn](https://www.linkedin.com/in/shweta-shukla-1b1659170/)
+
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [ ] Week 1 Javascript Advance
+- [ ] Week 2 Web Dev and Nodejs
+- [ ] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [ ] Week 5 Storybooks
+
+### TradeByte Check
+
+- [ ] I am ready for contribution in TradeByte
 
 ## I am here to learn and give my 💯 to my work.

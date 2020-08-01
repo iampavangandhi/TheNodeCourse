@@ -8,7 +8,7 @@
 
 ### Name: Somyaranjan Rout
 
-### Github-link: https://github.com/somyaranjan26
+### Github-link: [Link](https://github.com/somyaranjan26)
 
 ---
 
@@ -42,4 +42,21 @@ I love😍 to play football ⚽️and watch👀 Sci-fi Moives and Series.
 - [Instagram](https://instagram.com/iampavangandhi)
 - [Facebook](https://www.facebook.com/somyaranjancr7)
 
-### ✅ I agree to give my best and work with full dedication 💯
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [x] Week 1 Javascript Advance
+- [x] Week 2 Web Dev and Nodejs
+- [x] Week 3 Expressjs
+- [x] Week 4 Auth and Database
+- [x] Week 5 Storybooks
+
+### TradeByte Check
+
+- [x] I am ready for contribution in TradeByte
+
+## ✅ I agree to give my best and work with full dedication 💯

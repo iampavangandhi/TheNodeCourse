@@ -2,7 +2,7 @@
 
 - **Username: Akankshabhasin**
 - **Name: Akanksha**
-- **Github Link: https://github.com/akankshabhasin**
+- **Github Link: [Link](https://github.com/akankshabhasin)**
 - **Skills: C++ \| HTML \| CSS \| JS \| Actions on Google**
 
 ## Introduction
@@ -17,5 +17,22 @@ I love dancing and photography.
 
 - [LinkedIn](https://www.linkedin.com/in/akankshabhasin/)
 - [Instagram](https://www.instagram.com/akankshab786/)
+
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [ ] Week 1 Javascript Advance
+- [ ] Week 2 Web Dev and Nodejs
+- [ ] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [ ] Week 5 Storybooks
+
+### TradeByte Check
+
+- [ ] I am ready for contribution in TradeByte
 
 ## Here to learn and give my 💯 to my work.

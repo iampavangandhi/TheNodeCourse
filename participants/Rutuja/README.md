@@ -19,4 +19,21 @@ I am currently learning full-stack development and cloud computing, also I am wo
 
 I like to watch TV series.
 
-### ✅ I agree to give my best and work with full dedication 💯
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [ ] Week 1 Javascript Advance
+- [ ] Week 2 Web Dev and Nodejs
+- [ ] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [ ] Week 5 Storybooks
+
+### TradeByte Check
+
+- [ ] I am ready for contribution in TradeByte
+
+## ✅ I agree to give my best and work with full dedication 💯

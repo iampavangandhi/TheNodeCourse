@@ -4,7 +4,7 @@
 
 ### Name: Piyush Gupta
 
-### Github-link: https://github.com/piyush-gupta092
+### Github-link: [Link](https://github.com/piyush-gupta092)
 
 ### Skills: C | C++ | HTML | Javascript
 
@@ -25,4 +25,21 @@ I'll consistenly doing that works which i loved like watching webseries in one d
 - [LinkedIn](https://www.linkedin.com/in/piyush-gupta-08875a159/)
 - [Instagram](https://www.instagram.com/piyushgupt.a)
 
-### ✅ I agree to give my best and work with full dedication 💯
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [ ] Week 1 Javascript Advance
+- [ ] Week 2 Web Dev and Nodejs
+- [ ] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [ ] Week 5 Storybooks
+
+### TradeByte Check
+
+- [ ] I am ready for contribution in TradeByte
+
+## ✅ I agree to give my best and work with full dedication 💯

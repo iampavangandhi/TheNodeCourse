@@ -19,4 +19,21 @@ I like to do competitive coding. and i am currently learning web Development.
 
 - [LinkedIn](https://linkedin.com/in/chitra-singla-199557166)
 
-### ✅ I agree to give my best and work with full dedication 💯
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [ ] Week 1 Javascript Advance
+- [ ] Week 2 Web Dev and Nodejs
+- [ ] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [ ] Week 5 Storybooks
+
+### TradeByte Check
+
+- [ ] I am ready for contribution in TradeByte
+
+## ✅ I agree to give my best and work with full dedication 💯

@@ -1,8 +1,10 @@
 # Database Creation (Schema Design) and Insertion
 
-### Schemas
+## Schemas
+
 The code fragment below shows how you might define a simple schema. First you require() mongoose, then use the Schema constructor to create a new schema instance, defining the various fields inside it in the constructor's object parameter.
-```
+
+```javascript
 //Require Mongoose
 var mongoose = require('mongoose');
 
@@ -14,11 +16,14 @@ var SomeModelSchema = new Schema({
   a_date: Date
 });
 ```
+
 In the case above we just have two fields, a string and a date. 
 
 ### Creating a model
+
 Models are created from schemas using the mongoose.model() method:
-```
+
+```javascript
 // Define schema
 var Schema = mongoose.Schema;
 
@@ -30,6 +35,7 @@ var SomeModelSchema = new Schema({
 // Compile model from schema
 var SomeModel = mongoose.model('SomeModel', SomeModelSchema );
 ```
+
 The first argument is the singular name of the collection that will be created for your model (Mongoose will create the database collection for the above model SomeModel above), and the second argument is the schema you want to use in creating the model.
 
 
@@ -37,8 +43,10 @@ The first argument is the singular name of the collection that will be created f
 
 
 ### Schema types (fields)
+
 A schema can have an arbitrary number of fields — each one represents a field in the documents stored in MongoDB. An example schema showing many of the common field types and how they are declared is shown below.
-```
+
+```javascript
 var schema = new Schema(
 {
   name: String,

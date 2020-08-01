@@ -17,4 +17,21 @@ I am currently learning full-stack web development and am currently focusing on 
 
 - [LinkedIn](https://www.linkedin.com/in/garima-singh-190b35170/)
 
-### I will duly invest my time on this project.
+## Course Progress
+
+- [x] for Completed
+- [ ] for Incompleted 
+
+### My Progress
+
+- [x] Week 1 Javascript Advance
+- [x] Week 2 Web Dev and Nodejs
+- [x] Week 3 Expressjs
+- [ ] Week 4 Auth and Database
+- [x] Week 5 Storybooks
+
+### TradeByte Check
+
+- [x] I am ready for contribution in TradeByte
+
+## I will duly invest my 💯 time on this project.

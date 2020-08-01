@@ -48,18 +48,25 @@ Now you can try different requests at [http://localhost:8081](http://localhost:8
 
 📁 Let's try to make a file uploader form. You can see code in Code Folder. **Here's the [link](https://github.com/iampavangandhi/TheNodeCourse/tree/master/03%20Expressjs/Topic2/Code/File%20Uploader)**
 
+There are 2 ways of file uploading
+
+- using Multer
+- using Express-fileupload
+
 You can run it by doing -
 
-```javascript
+```sh
 npm install
 
-node server.js
+node server1.js (for Multer One)
+or
+node server2.js (for Express-fileupload One)
 ```
 
 You will see following output -
 
 ```javascript
-Example app listening at "http://localhost:8081/"
+Listening at "http://localhost:8081/"
 ```
 
 ## Cookies Management

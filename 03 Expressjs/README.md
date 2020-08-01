@@ -1,4 +1,4 @@
-# Expressjs with Middlewares and Templating (EJS)
+# 🔥 Expressjs Framework
 
 ### Resources for Expressjs: [Link](https://www.tutorialspoint.com/expressjs/)
 
