@@ -33,6 +33,6 @@ I love dancing and photography.
 
 ### TradeByte Check
 
-- [ ] I am ready for contribution in TradeByte
+- [x] I am ready for contribution in TradeByte
 
 ## Here to learn and give my 💯 to my work.
