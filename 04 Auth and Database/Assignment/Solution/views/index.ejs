@@ -1,0 +1,54 @@
+<html>
+
+<head>
+    <title>Todos (<%=todos.length%>)</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+    <link rel="stylesheet" href="/css/index.css">
+</head>
+
+<nav class="navbar navbar-dark bg-dark">
+    <a class="navbar-brand" href="/"><span id="current_user"><%=username%></span></a>
+    <a class="btn btn-primary" href="/logout"> Logout </a>
+
+</nav>
+
+<body>
+    <div class="card" id="wrapper">
+        <h5 class="card-header">Todos (<%=todos.length%>)</h5>
+        <div class="card-body">
+            <form>
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" placeholder="Enter todo here" required>
+                    <div class="input-group-append">
+                        <button class="btn btn-primary submit" type="submit">Submit</button>
+                    </div>
+                </div>
+            </form>
+
+            <table class="table table-striped" id="todos">
+                <tbody>
+                    <% todos.forEach((item) => { %>
+                    <tr>
+                        <td>
+                            <% if (!item.check) { %>
+                            <input type="checkbox" data-id="<%= item._id %>">
+                            <% } else { %>
+                            <input type="checkbox" data-id="<%= item._id %>" checked>
+                            <% } %>
+                            <span id="todo-item"><%= item.todo %></span>
+                            <button class="btn btn-danger remove" data-id="<%= item._id %>"><i class="far fa-trash-alt"></i></button>
+                            <button class="btn btn-success edit" data-id="<%= item._id %>"><i class="far fa-edit"></i></button>
+                        </td>
+                    </tr>
+                    <% }); %>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="/js/index.js"></script>
+</body>
+
+</html>

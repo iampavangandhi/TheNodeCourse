@@ -1,0 +1,25 @@
+{
+  "name": "todo-npm",
+  "version": "1.0.0",
+  "description": "",
+  "engines": {
+    "node": "8.11.4"
+  },
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^3.0.8",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.2.13",
+    "passport": "^0.4.0",
+    "validator": "^10.7.1"
+  }
+}
