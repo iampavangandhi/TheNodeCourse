@@ -14,4 +14,4 @@ Let's add some feature in your last week's **Todo App**. Let's make a **Simple L
 
 Use CSS for Styling the **Todo App**. You can use javascript methods for any type of manipulation.
 
-### Solution: **[Soon]()**
+### Solution: **[Here](https://github.com/iampavangandhi/TheNodeCourse/tree/master/04%20Auth%20and%20Database/Assignment/Solution)**
