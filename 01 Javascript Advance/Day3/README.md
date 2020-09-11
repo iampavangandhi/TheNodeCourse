@@ -47,7 +47,7 @@ console.log(bike1.getDetails()); //The name of the bike is Hayabusa
 
 ### Encapsulation
 
-he process of wrapping property and function within a single unit is known as encapsulation.
+The process of wrapping property and function within a single unit is known as encapsulation.
 Let’s understand encapsulation with an example.
 
 ```javascript
